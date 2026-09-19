@@ -1,0 +1,49 @@
+name: Update stock data
+
+on:
+  schedule:
+    # Times are UTC. Runs weekdays: ~10:30 UTC (after India market close),
+    # ~18:00 UTC (mid US session), ~22:00 UTC (after US market close).
+    # Adjust to taste — cron minimum interval on GitHub Actions is 5 minutes,
+    # but there's no reason to run more often than the data actually changes.
+    - cron: "30 10 * * 1-5"
+    - cron: "0 18 * * 1-5"
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run screener
+        run: python scripts/fetch_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "stock-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/latest.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update stock data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

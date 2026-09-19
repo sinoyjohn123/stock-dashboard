@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-09-14T00:00:00+00:00",
+  "sample_data": true,
+  "note": "Illustrative placeholder data shipped with the repo so GitHub Pages has something to render before the first Action run. Real numbers arrive after scripts/fetch_data.py runs on its schedule (or you trigger it manually from the Actions tab).",
+  "criteria": {
+    "us_min_market_cap": 50000000000,
+    "india_min_market_cap_inr": 500000000000,
+    "buying_range_pct": 0.03
+  },
+  "markets": {
+    "US": [
+      {
+        "symbol": "AAPL", "yf_symbol": "AAPL", "name": "Apple Inc.", "sector": "Technology",
+        "market_cap": 3400000000000, "pe_ratio": 31.2, "debt_to_equity": 145.0,
+        "revenue_growth_yoy_pct": 6.1, "earnings_growth_yoy_pct": 8.4, "sector_pe_avg": 29.8,
+        "price": 228.40, "week52_low": 168.50, "week52_high": 236.10, "all_time_high": 236.10,
+        "sma20": 226.80, "sma50": 221.30, "sma100": 214.60, "sma200": 201.90,
+        "rsi14": 58.2, "volume_trend_pct": -8.4, "trend": "Uptrend",
+        "buying_range": false, "buying_range_basis": []
+      },
+      {
+        "symbol": "MSFT", "yf_symbol": "MSFT", "name": "Microsoft Corporation", "sector": "Technology",
+        "market_cap": 3100000000000, "pe_ratio": 34.7, "debt_to_equity": 78.5,
+        "revenue_growth_yoy_pct": 14.2, "earnings_growth_yoy_pct": 11.9, "sector_pe_avg": 29.8,
+        "price": 415.20, "week52_low": 385.00, "week52_high": 468.30, "all_time_high": 468.30,
+        "sma20": 418.90, "sma50": 416.10, "sma100": 424.50, "sma200": 430.20,
+        "rsi14": 47.6, "volume_trend_pct": 3.1, "trend": "Mixed",
+        "buying_range": true, "buying_range_basis": ["50DMA"]
+      },
+      {
+        "symbol": "JPM", "yf_symbol": "JPM", "name": "JPMorgan Chase & Co.", "sector": "Financials",
+        "market_cap": 620000000000, "pe_ratio": 12.4, "debt_to_equity": 132.0,
+        "revenue_growth_yoy_pct": 9.8, "earnings_growth_yoy_pct": 15.3, "sector_pe_avg": 14.1,
+        "price": 218.60, "week52_low": 180.20, "week52_high": 224.90, "all_time_high": 224.90,
+        "sma20": 216.10, "sma50": 212.40, "sma100": 205.80, "sma200": 198.30,
+        "rsi14": 61.8, "volume_trend_pct": -2.0, "trend": "Uptrend",
+        "buying_range": false, "buying_range_basis": []
+      },
+      {
+        "symbol": "XOM", "yf_symbol": "XOM", "name": "Exxon Mobil Corporation", "sector": "Energy",
+        "market_cap": 510000000000, "pe_ratio": 13.9, "debt_to_equity": 22.1,
+        "revenue_growth_yoy_pct": -3.2, "earnings_growth_yoy_pct": -5.8, "sector_pe_avg": 13.2,
+        "price": 118.30, "week52_low": 98.40, "week52_high": 126.70, "all_time_high": 126.70,
+        "sma20": 117.90, "sma50": 118.80, "sma100": 116.20, "sma200": 113.50,
+        "rsi14": 49.0, "volume_trend_pct": 1.4, "trend": "Uptrend",
+        "buying_range": true, "buying_range_basis": ["50DMA", "100DMA"]
+      },
+      {
+        "symbol": "JNJ", "yf_symbol": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare",
+        "market_cap": 395000000000, "pe_ratio": 16.8, "debt_to_equity": 45.3,
+        "revenue_growth_yoy_pct": 4.5, "earnings_growth_yoy_pct": 6.2, "sector_pe_avg": 19.4,
+        "price": 164.10, "week52_low": 140.70, "week52_high": 168.20, "all_time_high": 179.90,
+        "sma20": 163.40, "sma50": 160.90, "sma100": 157.60, "sma200": 153.80,
+        "rsi14": 55.1, "volume_trend_pct": -5.6, "trend": "Uptrend",
+        "buying_range": false, "buying_range_basis": []
+      },
+      {
+        "symbol": "WMT", "yf_symbol": "WMT", "name": "Walmart Inc.", "sector": "Consumer Staples",
+        "market_cap": 720000000000, "pe_ratio": 38.1, "debt_to_equity": 55.9,
+        "revenue_growth_yoy_pct": 5.9, "earnings_growth_yoy_pct": 9.1, "sector_pe_avg": 26.7,
+        "price": 89.70, "week52_low": 65.30, "week52_high": 93.90, "all_time_high": 93.90,
+        "sma20": 90.10, "sma50": 88.20, "sma100": 84.60, "sma200": 79.40,
+        "rsi14": 52.9, "volume_trend_pct": 2.7, "trend": "Uptrend",
+        "buying_range": true, "buying_range_basis": ["50DMA"]
+      }
+    ],
+    "India": [
+      {
+        "symbol": "RELIANCE", "yf_symbol": "RELIANCE.NS", "name": "Reliance Industries", "sector": "Energy",
+        "market_cap": 19800000000000, "pe_ratio": 24.6, "debt_to_equity": 41.2,
+        "revenue_growth_yoy_pct": 7.8, "earnings_growth_yoy_pct": 10.5, "sector_pe_avg": 21.9,
+        "price": 2940.50, "week52_low": 2220.00, "week52_high": 3020.00, "all_time_high": 3024.90,
+        "sma20": 2915.00, "sma50": 2865.00, "sma100": 2780.00, "sma200": 2650.00,
+        "rsi14": 56.4, "volume_trend_pct": -4.1, "trend": "Uptrend",
+        "buying_range": false, "buying_range_basis": []
+      },
+      {
+        "symbol": "TCS", "yf_symbol": "TCS.NS", "name": "Tata Consultancy Services", "sector": "IT",
+        "market_cap": 14500000000000, "pe_ratio": 28.3, "debt_to_equity": 8.1,
+        "revenue_growth_yoy_pct": 6.4, "earnings_growth_yoy_pct": 7.9, "sector_pe_avg": 26.5,
+        "price": 4010.00, "week52_low": 3550.00, "week52_high": 4590.00, "all_time_high": 4592.25,
+        "sma20": 4055.00, "sma50": 4085.00, "sma100": 4120.00, "sma200": 4180.00,
+        "rsi14": 42.7, "volume_trend_pct": 6.8, "trend": "Downtrend",
+        "buying_range": true, "buying_range_basis": ["50DMA"]
+      },
+      {
+        "symbol": "HDFCBANK", "yf_symbol": "HDFCBANK.NS", "name": "HDFC Bank", "sector": "Financials",
+        "market_cap": 12900000000000, "pe_ratio": 19.7, "debt_to_equity": 88.4,
+        "revenue_growth_yoy_pct": 11.2, "earnings_growth_yoy_pct": 13.6, "sector_pe_avg": 18.3,
+        "price": 1685.00, "week52_low": 1365.00, "week52_high": 1795.00, "all_time_high": 1795.00,
+        "sma20": 1672.00, "sma50": 1640.00, "sma100": 1598.00, "sma200": 1550.00,
+        "rsi14": 60.3, "volume_trend_pct": 0.9, "trend": "Uptrend",
+        "buying_range": false, "buying_range_basis": []
+      },
+      {
+        "symbol": "INFY", "yf_symbol": "INFY.NS", "name": "Infosys", "sector": "IT",
+        "market_cap": 7600000000000, "pe_ratio": 25.1, "debt_to_equity": 6.5,
+        "revenue_growth_yoy_pct": 5.2, "earnings_growth_yoy_pct": 6.8, "sector_pe_avg": 26.5,
+        "price": 1830.00, "week52_low": 1560.00, "week52_high": 2010.00, "all_time_high": 2010.00,
+        "sma20": 1845.00, "sma50": 1878.00, "sma100": 1850.00, "sma200": 1790.00,
+        "rsi14": 44.9, "volume_trend_pct": -1.8, "trend": "Mixed",
+        "buying_range": true, "buying_range_basis": ["100DMA"]
+      },
+      {
+        "symbol": "ITC", "yf_symbol": "ITC.NS", "name": "ITC Limited", "sector": "Consumer Staples",
+        "market_cap": 5400000000000, "pe_ratio": 27.8, "debt_to_equity": 3.2,
+        "revenue_growth_yoy_pct": 8.9, "earnings_growth_yoy_pct": 9.4, "sector_pe_avg": 30.1,
+        "price": 445.00, "week52_low": 395.00, "week52_high": 495.00, "all_time_high": 499.65,
+        "sma20": 442.00, "sma50": 438.00, "sma100": 432.00, "sma200": 420.00,
+        "rsi14": 53.7, "volume_trend_pct": 4.2, "trend": "Uptrend",
+        "buying_range": false, "buying_range_basis": []
+      },
+      {
+        "symbol": "LT", "yf_symbol": "LT.NS", "name": "Larsen & Toubro", "sector": "Industrials",
+        "market_cap": 5100000000000, "pe_ratio": 31.6, "debt_to_equity": 68.9,
+        "revenue_growth_yoy_pct": 15.1, "earnings_growth_yoy_pct": 12.3, "sector_pe_avg": 27.4,
+        "price": 3480.00, "week52_low": 3100.00, "week52_high": 3990.00, "all_time_high": 3990.00,
+        "sma20": 3512.00, "sma50": 3465.00, "sma100": 3390.00, "sma200": 3280.00,
+        "rsi14": 49.5, "volume_trend_pct": -3.0, "trend": "Uptrend",
+        "buying_range": true, "buying_range_basis": ["50DMA"]
+      }
+    ]
+  },
+  "meta": {
+    "us_candidates_scanned": 6, "us_in_scope": 6, "us_errors": 0,
+    "india_candidates_scanned": 6, "india_in_scope": 6, "india_errors": 0
+  }
+}

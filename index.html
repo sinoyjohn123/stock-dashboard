@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Stock Screener — Buying Range Dashboard</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --series-1:       #2a78d6;   /* blue - accent */
+    --status-good:    #0ca30c;
+    --status-good-bg: rgba(12,163,12,0.10);
+    --status-warning: #fab219;
+    --status-critical:#d03b3b;
+    --success-text:   #006300;
+    --row-hover:      rgba(11,11,11,0.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --series-1:       #3987e5;
+      --status-good:    #0ca30c;
+      --status-good-bg: rgba(12,163,12,0.16);
+      --status-warning: #c98500;
+      --status-critical:#e66767;
+      --success-text:   #0ca30c;
+      --row-hover:      rgba(255,255,255,0.06);
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface-1:      #1a1a19;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --gridline:       #2c2c2a;
+    --baseline:       #383835;
+    --border:         rgba(255,255,255,0.10);
+    --series-1:       #3987e5;
+    --status-good:    #0ca30c;
+    --status-good-bg: rgba(12,163,12,0.16);
+    --status-warning: #c98500;
+    --status-critical:#e66767;
+    --success-text:   #0ca30c;
+    --row-hover:      rgba(255,255,255,0.06);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--text-primary);
+    font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+    padding-block: 24px;
+  }
+  .wrap { max-width: 1240px; margin: 0 auto; padding-inline: 20px; }
+
+  header.top { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+  h1 { font-size: 20px; margin: 0; }
+  .updated { color: var(--text-muted); font-size: 12.5px; }
+
+  .toggle { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .toggle button {
+    appearance: none; border: none; background: var(--surface-1); color: var(--text-secondary);
+    padding: 8px 18px; font: inherit; font-weight: 600; cursor: pointer;
+  }
+  .toggle button + button { border-left: 1px solid var(--border); }
+  .toggle button[aria-pressed="true"] { background: var(--series-1); color: #fff; }
+
+  .stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 18px; }
+  .stat-tile {
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px;
+    padding: 14px 16px;
+  }
+  .stat-tile .label { color: var(--text-muted); font-size: 12px; text-transform: uppercase; letter-spacing: .03em; }
+  .stat-tile .value { font-size: 24px; font-weight: 700; margin-top: 4px; font-variant-numeric: tabular-nums; }
+  .stat-tile .value.good { color: var(--status-good); }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+  .controls input[type="search"], .controls select {
+    background: var(--surface-1); color: var(--text-primary); border: 1px solid var(--border);
+    border-radius: 7px; padding: 7px 10px; font: inherit;
+  }
+  .controls label.check { display: inline-flex; align-items: center; gap: 6px; color: var(--text-secondary); cursor: pointer; }
+  .controls .spacer { flex: 1; }
+  .controls .count { color: var(--text-muted); font-size: 12.5px; }
+
+  table.view {
+    width: 100%; border-collapse: collapse; background: var(--surface-1);
+    border: 1px solid var(--border); border-radius: 10px; overflow: hidden; font-size: 13px;
+  }
+  table.view th, table.view td { padding: 9px 10px; text-align: right; white-space: nowrap; }
+  table.view th:nth-child(-n+3), table.view td:nth-child(-n+3) { text-align: left; }
+  table.view thead th {
+    color: var(--text-muted); font-weight: 600; font-size: 11.5px; text-transform: uppercase; letter-spacing: .02em;
+    border-bottom: 1px solid var(--gridline); cursor: pointer; user-select: none; position: sticky; top: 0; background: var(--surface-1);
+  }
+  table.view thead th.active { color: var(--series-1); }
+  table.view tbody tr { border-bottom: 1px solid var(--gridline); cursor: pointer; }
+  table.view tbody tr:last-child { border-bottom: none; }
+  table.view tbody tr:hover { background: var(--row-hover); }
+  table.view tbody tr.in-range { background: var(--status-good-bg); }
+  table.view tbody tr.in-range:hover { filter: brightness(0.97); }
+  td.sym { font-weight: 700; }
+  td.name { color: var(--text-secondary); max-width: 220px; overflow: hidden; text-overflow: ellipsis; text-align: left; }
+  .badge {
+    display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 999px;
+    background: var(--status-good-bg); color: var(--success-text);
+  }
+  .rsi-flag { font-size: 11px; color: var(--text-muted); }
+
+  .empty-state { padding: 48px 20px; text-align: center; color: var(--text-muted); }
+
+  /* Drill-down panel */
+  .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.35); display: none; z-index: 10; }
+  .overlay.open { display: block; }
+  .panel {
+    position: fixed; top: 0; right: 0; height: 100%; width: min(420px, 92vw);
+    background: var(--surface-1); border-left: 1px solid var(--border); z-index: 11;
+    transform: translateX(100%); transition: transform .2s ease; overflow-y: auto;
+    padding: 20px;
+  }
+  .panel.open { transform: translateX(0); }
+  .panel .close { float: right; background: none; border: none; color: var(--text-muted); font-size: 20px; cursor: pointer; line-height: 1; }
+  .panel h2 { margin: 0 0 2px; font-size: 18px; }
+  .panel .sub { color: var(--text-muted); font-size: 12.5px; margin-bottom: 18px; }
+  .panel .section { margin-bottom: 20px; }
+  .panel .section h3 { font-size: 11.5px; text-transform: uppercase; letter-spacing: .03em; color: var(--text-muted); margin: 0 0 10px; }
+  .kv-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 14px; }
+  .kv { border-bottom: 1px solid var(--gridline); padding-bottom: 6px; }
+  .kv .k { color: var(--text-muted); font-size: 11.5px; }
+  .kv .v { font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .range-bar { position: relative; height: 28px; background: var(--gridline); border-radius: 999px; margin: 14px 0 6px; }
+  .range-bar .fill { position: absolute; top: 0; bottom: 0; left: 0; background: var(--series-1); opacity: .18; border-radius: 999px; }
+  .range-bar .marker {
+    position: absolute; top: -4px; width: 3px; height: 36px; background: var(--series-1); border-radius: 2px; transform: translateX(-1.5px);
+  }
+  .range-bar .marker.ath { background: var(--status-critical); }
+  .range-labels { display: flex; justify-content: space-between; font-size: 11px; color: var(--text-muted); }
+  .footer-note { color: var(--text-muted); font-size: 12px; margin-top: 28px; }
+  a { color: var(--series-1); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Stock Screener — Buying Range Dashboard</h1>
+      <div class="updated" id="updated">Loading…</div>
+    </div>
+    <div class="toggle" role="group" aria-label="Market">
+      <button id="btn-us" aria-pressed="true">US</button>
+      <button id="btn-in" aria-pressed="false">India</button>
+    </div>
+  </header>
+
+  <div class="stat-row" id="stats"></div>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search symbol or name…" />
+    <select id="sector-filter"><option value="">All sectors</option></select>
+    <label class="check"><input type="checkbox" id="range-only" /> Buying range only</label>
+    <div class="spacer"></div>
+    <div class="count" id="row-count"></div>
+  </div>
+
+  <div id="table-host"></div>
+
+  <p class="footer-note">
+    Screening criteria: US market cap ≥ $50B · India market cap ≥ ₹50,000 cr · flagged "in buying range" when price is
+    within 3% of the 50-day or 100-day simple moving average. Data refreshes automatically via a scheduled job — see
+    the timestamp above. Click any row for the full technical + fundamental snapshot.
+  </p>
+</div>
+
+<div class="overlay" id="overlay"></div>
+<aside class="panel" id="panel"></aside>
+
+<script>
+const CURRENCY = { US: { symbol: "$", capDivisor: 1e9, capUnit: "B" }, India: { symbol: "₹", capDivisor: 1e7, capUnit: " Cr" } };
+
+let DATA = null;
+let market = "US";
+let sortKey = "market_cap";
+let sortDir = -1;
+
+const COLUMNS = [
+  { key: "symbol", label: "Symbol" },
+  { key: "name", label: "Name" },
+  { key: "sector", label: "Sector" },
+  { key: "market_cap", label: "Mkt Cap" },
+  { key: "price", label: "Price" },
+  { key: "week52_low", label: "52W Low" },
+  { key: "week52_high", label: "52W High" },
+  { key: "all_time_high", label: "ATH" },
+  { key: "sma20", label: "SMA20" },
+  { key: "sma50", label: "SMA50" },
+  { key: "sma100", label: "SMA100" },
+  { key: "sma200", label: "SMA200" },
+  { key: "rsi14", label: "RSI" },
+  { key: "volume_trend_pct", label: "Vol Trend" },
+  { key: "buying_range", label: "Range" },
+];
+
+function fmtNum(v, digits = 2) {
+  if (v === null || v === undefined || Number.isNaN(v)) return "—";
+  return Number(v).toLocaleString(undefined, { minimumFractionDigits: digits, maximumFractionDigits: digits });
+}
+function fmtPrice(v) { return v === null || v === undefined ? "—" : `${CURRENCY[market].symbol}${fmtNum(v)}`; }
+function fmtCap(v) {
+  if (v === null || v === undefined) return "—";
+  const c = CURRENCY[market];
+  return `${c.symbol}${fmtNum(v / c.capDivisor, 1)}${c.capUnit}`;
+}
+function fmtPct(v) { return v === null || v === undefined ? "—" : `${v > 0 ? "+" : ""}${fmtNum(v, 1)}%`; }
+
+async function load() {
+  const res = await fetch("data/latest.json", { cache: "no-store" });
+  DATA = await res.json();
+  document.getElementById("updated").textContent =
+    "Data as of " + new Date(DATA.generated_at).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+  populateSectorFilter();
+  render();
+}
+
+function currentRows() {
+  const rows = (DATA.markets[market] || []);
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const sector = document.getElementById("sector-filter").value;
+  const rangeOnly = document.getElementById("range-only").checked;
+  return rows.filter(r => {
+    if (rangeOnly && !r.buying_range) return false;
+    if (sector && r.sector !== sector) return false;
+    if (q && !(r.symbol.toLowerCase().includes(q) || r.name.toLowerCase().includes(q))) return false;
+    return true;
+  });
+}
+
+function populateSectorFilter() {
+  const sel = document.getElementById("sector-filter");
+  const sectors = [...new Set((DATA.markets[market] || []).map(r => r.sector))].sort();
+  sel.innerHTML = `<option value="">All sectors</option>` + sectors.map(s => `<option>${s}</option>`).join("");
+}
+
+function renderStats(rows) {
+  const total = (DATA.markets[market] || []).length;
+  const inRange = (DATA.markets[market] || []).filter(r => r.buying_range).length;
+  const basis50 = (DATA.markets[market] || []).filter(r => r.buying_range_basis?.includes("50DMA")).length;
+  const basis100 = (DATA.markets[market] || []).filter(r => r.buying_range_basis?.includes("100DMA")).length;
+  document.getElementById("stats").innerHTML = `
+    <div class="stat-tile"><div class="label">In-scope stocks</div><div class="value">${total}</div></div>
+    <div class="stat-tile"><div class="label">In buying range</div><div class="value good">${inRange}</div></div>
+    <div class="stat-tile"><div class="label">Near 50-day SMA</div><div class="value">${basis50}</div></div>
+    <div class="stat-tile"><div class="label">Near 100-day SMA</div><div class="value">${basis100}</div></div>
+  `;
+}
+
+function render() {
+  if (!DATA) return;
+  const rows = currentRows();
+  renderStats(rows);
+  document.getElementById("row-count").textContent = `${rows.length} shown`;
+
+  rows.sort((a, b) => {
+    let av = a[sortKey], bv = b[sortKey];
+    if (sortKey === "buying_range") { av = a.buying_range ? 1 : 0; bv = b.buying_range ? 1 : 0; }
+    if (av === null || av === undefined) av = -Infinity;
+    if (bv === null || bv === undefined) bv = -Infinity;
+    if (typeof av === "string") return sortDir * av.localeCompare(bv);
+    return sortDir * (av - bv);
+  });
+
+  const host = document.getElementById("table-host");
+  if (rows.length === 0) {
+    host.innerHTML = `<div class="empty-state">No stocks match the current filters.</div>`;
+    return;
+  }
+
+  const thead = COLUMNS.map(c =>
+    `<th data-key="${c.key}" class="${c.key === sortKey ? "active" : ""}">${c.label}${c.key === sortKey ? (sortDir === 1 ? " ↑" : " ↓") : ""}</th>`
+  ).join("");
+
+  const tbody = rows.map(r => `
+    <tr class="${r.buying_range ? "in-range" : ""}" data-symbol="${r.symbol}">
+      <td class="sym">${r.symbol}</td>
+      <td class="name" title="${r.name}">${r.name}</td>
+      <td style="text-align:left">${r.sector}</td>
+      <td>${fmtCap(r.market_cap)}</td>
+      <td>${fmtPrice(r.price)}</td>
+      <td>${fmtPrice(r.week52_low)}</td>
+      <td>${fmtPrice(r.week52_high)}</td>
+      <td>${fmtPrice(r.all_time_high)}</td>
+      <td>${fmtPrice(r.sma20)}</td>
+      <td>${fmtPrice(r.sma50)}</td>
+      <td>${fmtPrice(r.sma100)}</td>
+      <td>${fmtPrice(r.sma200)}</td>
+      <td>${r.rsi14 ?? "—"}</td>
+      <td>${fmtPct(r.volume_trend_pct)}</td>
+      <td>${r.buying_range ? `<span class="badge">${r.buying_range_basis.join(" + ")}</span>` : "—"}</td>
+    </tr>
+  `).join("");
+
+  host.innerHTML = `<table class="view"><thead><tr>${thead}</tr></thead><tbody>${tbody}</tbody></table>`;
+
+  host.querySelectorAll("th").forEach(th => th.addEventListener("click", () => {
+    const key = th.dataset.key;
+    if (sortKey === key) sortDir *= -1; else { sortKey = key; sortDir = -1; }
+    render();
+  }));
+  host.querySelectorAll("tbody tr").forEach(tr => tr.addEventListener("click", () => openPanel(tr.dataset.symbol)));
+}
+
+function openPanel(symbol) {
+  const r = (DATA.markets[market] || []).find(x => x.symbol === symbol);
+  if (!r) return;
+  const c = CURRENCY[market];
+  const lo = r.week52_low, hi = r.week52_high, ath = r.all_time_high, price = r.price;
+  const rangeMax = Math.max(hi, ath);
+  const pricePct = ((price - lo) / (rangeMax - lo)) * 100;
+  const athPct = ((ath - lo) / (rangeMax - lo)) * 100;
+  const hiPct = ((hi - lo) / (rangeMax - lo)) * 100;
+
+  const smaRows = [["20-day", r.sma20], ["50-day", r.sma50], ["100-day", r.sma100], ["200-day", r.sma200]]
+    .map(([label, v]) => {
+      const delta = v ? ((price / v - 1) * 100) : null;
+      const near = v && Math.abs((price / v - 1)) <= 0.03;
+      return `<div class="kv"><div class="k">${label} SMA${near ? " · near" : ""}</div><div class="v">${fmtPrice(v)} ${delta !== null ? `<span style="font-weight:400;color:var(--text-muted)">(${fmtPct(delta)})</span>` : ""}</div></div>`;
+    }).join("");
+
+  const rsiLabel = r.rsi14 === null ? "—" : r.rsi14 >= 70 ? "Overbought" : r.rsi14 <= 30 ? "Oversold" : "Neutral";
+  const peDelta = (r.pe_ratio && r.sector_pe_avg) ? ((r.pe_ratio / r.sector_pe_avg - 1) * 100) : null;
+
+  document.getElementById("panel").innerHTML = `
+    <button class="close" id="panel-close" aria-label="Close">&times;</button>
+    <h2>${r.symbol}</h2>
+    <div class="sub">${r.name} · ${r.sector}${r.buying_range ? ` · <span class="badge">In buying range (${r.buying_range_basis.join(" + ")})</span>` : ""}</div>
+
+    <div class="section">
+      <h3>52-week range</h3>
+      <div class="range-bar">
+        <div class="fill" style="width:${pricePct}%"></div>
+        <div class="marker" style="left:${pricePct}%" title="Price"></div>
+        ${ath > hi ? `<div class="marker ath" style="left:${athPct}%" title="All-time high"></div>` : ""}
+      </div>
+      <div class="range-labels"><span>${fmtPrice(lo)} low</span><span>${fmtPrice(price)} now</span><span>${fmtPrice(hi)} high${ath > hi ? ` · ATH ${fmtPrice(ath)}` : ""}</span></div>
+    </div>
+
+    <div class="section">
+      <h3>Moving averages</h3>
+      <div class="kv-grid">${smaRows}</div>
+    </div>
+
+    <div class="section">
+      <h3>Technical</h3>
+      <div class="kv-grid">
+        <div class="kv"><div class="k">RSI (14)</div><div class="v">${r.rsi14 ?? "—"} <span style="font-weight:400;color:var(--text-muted)">${rsiLabel}</span></div></div>
+        <div class="kv"><div class="k">Trend</div><div class="v">${r.trend}</div></div>
+        <div class="kv"><div class="k">Volume trend</div><div class="v">${fmtPct(r.volume_trend_pct)}</div></div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h3>Fundamentals</h3>
+      <div class="kv-grid">
+        <div class="kv"><div class="k">P/E</div><div class="v">${r.pe_ratio ?? "—"}</div></div>
+        <div class="kv"><div class="k">Sector avg P/E</div><div class="v">${r.sector_pe_avg ?? "—"} ${peDelta !== null ? `<span style="font-weight:400;color:var(--text-muted)">(${fmtPct(peDelta)})</span>` : ""}</div></div>
+        <div class="kv"><div class="k">Revenue growth (YoY)</div><div class="v">${fmtPct(r.revenue_growth_yoy_pct)}</div></div>
+        <div class="kv"><div class="k">Earnings growth (YoY)</div><div class="v">${fmtPct(r.earnings_growth_yoy_pct)}</div></div>
+        <div class="kv"><div class="k">Debt/Equity</div><div class="v">${r.debt_to_equity ?? "—"}</div></div>
+        <div class="kv"><div class="k">Market cap</div><div class="v">${fmtCap(r.market_cap)}</div></div>
+      </div>
+    </div>
+  `;
+  document.getElementById("panel-close").addEventListener("click", closePanel);
+  document.getElementById("overlay").classList.add("open");
+  document.getElementById("panel").classList.add("open");
+}
+function closePanel() {
+  document.getElementById("overlay").classList.remove("open");
+  document.getElementById("panel").classList.remove("open");
+}
+
+document.getElementById("overlay").addEventListener("click", closePanel);
+document.getElementById("btn-us").addEventListener("click", () => switchMarket("US"));
+document.getElementById("btn-in").addEventListener("click", () => switchMarket("India"));
+function switchMarket(m) {
+  market = m;
+  document.getElementById("btn-us").setAttribute("aria-pressed", String(m === "US"));
+  document.getElementById("btn-in").setAttribute("aria-pressed", String(m === "India"));
+  document.getElementById("sector-filter").value = "";
+  populateSectorFilter();
+  render();
+}
+["search", "sector-filter", "range-only"].forEach(id =>
+  document.getElementById(id).addEventListener("input", render)
+);
+
+load().catch(err => {
+  document.getElementById("updated").textContent = "Could not load data/latest.json — " + err.message;
+});
+</script>
+</body>
+</html>
