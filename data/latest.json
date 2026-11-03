@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:52:22.771569+00:00",
+  "generated_at": "2026-11-03T03:23:54.192201+00:00",
   "criteria": {
     "us_min_market_cap": 50000000000,
     "india_min_market_cap_inr": 500000000000.0,
@@ -26,13 +26,13 @@
         "sma100": 321.91,
         "sma200": 296.96,
         "rsi14": 47.9,
-        "volume_trend_pct": -8.5,
+        "volume_trend_pct": -8.6,
         "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "NVDA",
@@ -57,7 +57,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "MSFT",
@@ -84,7 +84,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "GOOGL",
@@ -105,7 +105,7 @@
         "sma100": 344.76,
         "sma200": 340.39,
         "rsi14": 21.2,
-        "volume_trend_pct": 61.4,
+        "volume_trend_pct": 61.5,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -161,7 +161,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "TSLA",
@@ -186,7 +186,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "META",
@@ -236,7 +236,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "LLY",
@@ -244,7 +244,7 @@
         "name": "Lilly (Eli)",
         "sector": "Health Care",
         "market_cap": 1256832368640,
-        "pe_ratio": 45.796494,
+        "pe_ratio": 46.005543,
         "debt_to_equity": 122.925,
         "revenue_growth_yoy_pct": 38.6,
         "earnings_growth_yoy_pct": 16.3,
@@ -257,7 +257,7 @@
         "sma100": 1189.92,
         "sma200": 1093.13,
         "rsi14": 76.2,
-        "volume_trend_pct": 11.3,
+        "volume_trend_pct": 11.2,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -311,7 +311,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "MU",
@@ -336,7 +336,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "JPM",
@@ -344,7 +344,7 @@
         "name": "JPMorgan Chase",
         "sector": "Financials",
         "market_cap": 904444248064,
-        "pe_ratio": 14.286073,
+        "pe_ratio": 14.137815,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 10.2,
         "earnings_growth_yoy_pct": 9.9,
@@ -414,7 +414,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "XOM",
@@ -439,7 +439,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "JNJ",
@@ -447,7 +447,7 @@
         "name": "Johnson & Johnson",
         "sector": "Health Care",
         "market_cap": 651321868288,
-        "pe_ratio": 41.056145,
+        "pe_ratio": 41.433384,
         "debt_to_equity": 54.767,
         "revenue_growth_yoy_pct": 5.9,
         "earnings_growth_yoy_pct": -95.9,
@@ -460,7 +460,7 @@
         "sma100": 260.22,
         "sma200": 247.24,
         "rsi14": 56.9,
-        "volume_trend_pct": -6.7,
+        "volume_trend_pct": -6.8,
         "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
@@ -537,11 +537,11 @@
         "sma100": 946.69,
         "sma200": 971.33,
         "rsi14": 72.7,
-        "volume_trend_pct": 5.7,
+        "volume_trend_pct": 5.8,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "CVX",
@@ -562,11 +562,11 @@
         "sma100": 199.63,
         "sma200": 193.65,
         "rsi14": 58.7,
-        "volume_trend_pct": -11.8,
+        "volume_trend_pct": -11.9,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "PLTR",
@@ -587,11 +587,11 @@
         "sma100": 162.9,
         "sma200": 153.57,
         "rsi14": 37.7,
-        "volume_trend_pct": -38.4,
+        "volume_trend_pct": -38.5,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "KO",
@@ -616,7 +616,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "CSCO",
@@ -637,11 +637,11 @@
         "sma100": 113.02,
         "sma200": 101.31,
         "rsi14": 35.3,
-        "volume_trend_pct": -19.0,
+        "volume_trend_pct": -19.1,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "PG",
@@ -666,7 +666,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "MRK",
@@ -701,7 +701,7 @@
         "name": "Oracle Corporation",
         "sector": "Information Technology",
         "market_cap": 361415573504,
-        "pe_ratio": 18.68652,
+        "pe_ratio": 20.484535,
         "debt_to_equity": 251.716,
         "revenue_growth_yoy_pct": 29.6,
         "earnings_growth_yoy_pct": 54.5,
@@ -718,7 +718,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "UNH",
@@ -726,7 +726,7 @@
         "name": "UnitedHealth Group",
         "sector": "Health Care",
         "market_cap": 359432880128,
-        "pe_ratio": 22.856163,
+        "pe_ratio": 23.227379,
         "debt_to_equity": 70.426,
         "revenue_growth_yoy_pct": -0.4,
         "earnings_growth_yoy_pct": 75.9,
@@ -767,7 +767,7 @@
         "sma100": 58.36,
         "sma200": 54.94,
         "rsi14": 25.9,
-        "volume_trend_pct": -1.9,
+        "volume_trend_pct": -2.0,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
@@ -796,7 +796,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "GE",
@@ -848,7 +848,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "INTC",
@@ -869,11 +869,11 @@
         "sma100": 104.34,
         "sma200": 86.92,
         "rsi14": 23.0,
-        "volume_trend_pct": 31.0,
+        "volume_trend_pct": 31.1,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "AMAT",
@@ -898,7 +898,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "MS",
@@ -919,7 +919,7 @@
         "sma100": 207.16,
         "sma200": 194.3,
         "rsi14": 45.4,
-        "volume_trend_pct": 19.7,
+        "volume_trend_pct": 19.6,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
@@ -931,7 +931,7 @@
         "name": "Palo Alto Networks",
         "sector": "Information Technology",
         "market_cap": 287862816768,
-        "pe_ratio": 879.3,
+        "pe_ratio": 925.579,
         "debt_to_equity": 9.337,
         "revenue_growth_yoy_pct": 34.5,
         "earnings_growth_yoy_pct": null,
@@ -950,7 +950,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "LRCX",
@@ -975,7 +975,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "CAT",
@@ -1008,7 +1008,7 @@
         "name": "Texas Instruments",
         "sector": "Information Technology",
         "market_cap": 276121059328,
-        "pe_ratio": 39.1725,
+        "pe_ratio": 39.02067,
         "debt_to_equity": 70.654,
         "revenue_growth_yoy_pct": 27.7,
         "earnings_growth_yoy_pct": 77.0,
@@ -1025,7 +1025,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "RTX",
@@ -1073,7 +1073,7 @@
         "sma100": 999.12,
         "sma200": 957.47,
         "rsi14": 46.2,
-        "volume_trend_pct": -6.9,
+        "volume_trend_pct": -7.0,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -1085,7 +1085,7 @@
         "name": "Netflix",
         "sector": "Communication Services",
         "market_cap": 259580002304,
-        "pe_ratio": 18.017342,
+        "pe_ratio": 17.913794,
         "debt_to_equity": 59.857,
         "revenue_growth_yoy_pct": 11.8,
         "earnings_growth_yoy_pct": 47.5,
@@ -1205,7 +1205,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "CRWD",
@@ -1213,7 +1213,7 @@
         "name": "CrowdStrike",
         "sector": "Information Technology",
         "market_cap": 247597678592,
-        "pe_ratio": 4030.1667,
+        "pe_ratio": 4836.1997,
         "debt_to_equity": 15.958,
         "revenue_growth_yoy_pct": 25.8,
         "earnings_growth_yoy_pct": null,
@@ -1232,7 +1232,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "IBM",
@@ -1257,7 +1257,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "LIN",
@@ -1384,7 +1384,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "C",
@@ -1434,7 +1434,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "KLAC",
@@ -1459,7 +1459,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "APH",
@@ -1487,7 +1487,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "DIS",
@@ -1520,7 +1520,7 @@
         "name": "Abbott Laboratories",
         "sector": "Health Care",
         "market_cap": 191878135808,
-        "pe_ratio": 40.95167,
+        "pe_ratio": 39.48387,
         "debt_to_equity": 63.212,
         "revenue_growth_yoy_pct": 14.5,
         "earnings_growth_yoy_pct": -43.7,
@@ -1564,7 +1564,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "BLK",
@@ -1597,7 +1597,7 @@
         "name": "McDonald's",
         "sector": "Consumer Discretionary",
         "market_cap": 187977908224,
-        "pe_ratio": 21.579205,
+        "pe_ratio": 20.966063,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 3.7,
         "earnings_growth_yoy_pct": 5.7,
@@ -1616,7 +1616,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "VZ",
@@ -1668,7 +1668,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "UNP",
@@ -1755,7 +1755,7 @@
         "name": "ConocoPhillips",
         "sector": "Energy",
         "market_cap": 176404398080,
-        "pe_ratio": 19.449005,
+        "pe_ratio": 20.394445,
         "debt_to_equity": 35.639,
         "revenue_growth_yoy_pct": 35.5,
         "earnings_growth_yoy_pct": 107.0,
@@ -1772,7 +1772,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "WELL",
@@ -1821,7 +1821,7 @@
         "sma100": 26.98,
         "sma200": 26.82,
         "rsi14": 67.7,
-        "volume_trend_pct": -16.8,
+        "volume_trend_pct": -16.9,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -1850,7 +1850,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "TMUS",
@@ -1871,7 +1871,7 @@
         "sma100": 174.2,
         "sma200": 186.81,
         "rsi14": 52.3,
-        "volume_trend_pct": 42.9,
+        "volume_trend_pct": 42.8,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -1883,7 +1883,7 @@
         "name": "Danaher Corporation",
         "sector": "Health Care",
         "market_cap": 160259735552,
-        "pe_ratio": 37.743378,
+        "pe_ratio": 38.44351,
         "debt_to_equity": 51.8,
         "revenue_growth_yoy_pct": 8.3,
         "earnings_growth_yoy_pct": 37.8,
@@ -1925,7 +1925,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "TJX",
@@ -1950,7 +1950,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "ISRG",
@@ -2000,7 +2000,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "SCHW",
@@ -2050,7 +2050,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "LMT",
@@ -2121,7 +2121,7 @@
         "sma100": 125.47,
         "sma200": 123.94,
         "rsi14": 55.7,
-        "volume_trend_pct": 32.3,
+        "volume_trend_pct": 32.2,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
@@ -2198,7 +2198,7 @@
         "sma100": 507.09,
         "sma200": 479.79,
         "rsi14": 64.3,
-        "volume_trend_pct": 19.1,
+        "volume_trend_pct": 19.0,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -2210,7 +2210,7 @@
         "name": "Boeing",
         "sector": "Industrials",
         "market_cap": 138995712000,
-        "pe_ratio": 18.101135,
+        "pe_ratio": 17.699293,
         "debt_to_equity": 738.525,
         "revenue_growth_yoy_pct": 3.9,
         "earnings_growth_yoy_pct": null,
@@ -2273,11 +2273,11 @@
         "sma100": 842.7,
         "sma200": 693.96,
         "rsi14": 32.7,
-        "volume_trend_pct": 26.8,
+        "volume_trend_pct": 26.7,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "UBER",
@@ -2390,7 +2390,7 @@
         "name": "Altria",
         "sector": "Consumer Staples",
         "market_cap": 128367427584,
-        "pe_ratio": 15.91134,
+        "pe_ratio": 16.077082,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 3.6,
         "earnings_growth_yoy_pct": 6.7,
@@ -2403,11 +2403,11 @@
         "sma100": 70.45,
         "sma200": 68.96,
         "rsi14": 65.5,
-        "volume_trend_pct": 8.8,
+        "volume_trend_pct": 8.7,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "IBKR",
@@ -2482,7 +2482,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "PLD",
@@ -2536,7 +2536,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "LOW",
@@ -2561,7 +2561,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "BKNG",
@@ -2569,7 +2569,7 @@
         "name": "Booking Holdings",
         "sector": "Consumer Discretionary",
         "market_cap": 119137566720,
-        "pe_ratio": 17.045454,
+        "pe_ratio": 16.408752,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 8.1,
         "earnings_growth_yoy_pct": 130.0,
@@ -2586,7 +2586,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "SBUX",
@@ -2613,7 +2613,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "ADP",
@@ -2700,7 +2700,7 @@
         "name": "McKesson",
         "sector": "Health Care",
         "market_cap": 116401487872,
-        "pe_ratio": 26.759045,
+        "pe_ratio": 26.659012,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 7.7,
         "earnings_growth_yoy_pct": -17.6,
@@ -2792,11 +2792,11 @@
         "sma100": 123.58,
         "sma200": 114.86,
         "rsi14": 27.7,
-        "volume_trend_pct": 32.4,
+        "volume_trend_pct": 32.5,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "CME",
@@ -2871,7 +2871,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "PSX",
@@ -2896,7 +2896,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "VLO",
@@ -2921,7 +2921,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "GLW",
@@ -2946,7 +2946,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "ABNB",
@@ -2973,7 +2973,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "GD",
@@ -3131,7 +3131,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "HCA",
@@ -3277,7 +3277,7 @@
         "sma100": 61.09,
         "sma200": 58.08,
         "rsi14": 57.5,
-        "volume_trend_pct": -24.6,
+        "volume_trend_pct": -24.7,
         "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
@@ -3309,7 +3309,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "MNST",
@@ -3334,7 +3334,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "PWR",
@@ -3436,7 +3436,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "PNC",
@@ -3619,7 +3619,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "ELV",
@@ -3668,11 +3668,11 @@
         "sma100": 429.46,
         "sma200": 443.26,
         "rsi14": 52.6,
-        "volume_trend_pct": -0.9,
+        "volume_trend_pct": -1.0,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "CTAS",
@@ -3828,7 +3828,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "ECL",
@@ -3874,7 +3874,7 @@
         "sma100": 267.87,
         "sma200": 270.79,
         "rsi14": 47.8,
-        "volume_trend_pct": 51.3,
+        "volume_trend_pct": 51.4,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -3899,11 +3899,11 @@
         "sma100": 288.0,
         "sma200": 286.64,
         "rsi14": 72.2,
-        "volume_trend_pct": 1.3,
+        "volume_trend_pct": 1.2,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "SHW",
@@ -4002,7 +4002,7 @@
         "sma100": 215.16,
         "sma200": 206.1,
         "rsi14": 72.7,
-        "volume_trend_pct": -28.3,
+        "volume_trend_pct": -28.4,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -4031,7 +4031,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "MDLZ",
@@ -4056,7 +4056,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "DASH",
@@ -4083,7 +4083,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "ITW",
@@ -4158,7 +4158,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "MSI",
@@ -4183,7 +4183,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "CVNA",
@@ -4208,7 +4208,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "NOC",
@@ -4308,7 +4308,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "CL",
@@ -4316,7 +4316,7 @@
         "name": "Colgate-Palmolive",
         "sector": "Consumer Staples",
         "market_cap": 77449109504,
-        "pe_ratio": 37.910507,
+        "pe_ratio": 37.045628,
         "debt_to_equity": 1205.625,
         "revenue_growth_yoy_pct": 4.6,
         "earnings_growth_yoy_pct": 3.3,
@@ -4333,7 +4333,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "SLB",
@@ -4361,7 +4361,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "APP",
@@ -4369,7 +4369,7 @@
         "name": "AppLovin",
         "sector": "Communication Services",
         "market_cap": 76584771584,
-        "pe_ratio": 17.590315,
+        "pe_ratio": 17.563316,
         "debt_to_equity": 111.13,
         "revenue_growth_yoy_pct": 52.8,
         "earnings_growth_yoy_pct": 57.0,
@@ -4411,7 +4411,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "HOOD",
@@ -4419,7 +4419,7 @@
         "name": "Robinhood Markets",
         "sector": "Financials",
         "market_cap": 75497185280,
-        "pe_ratio": 38.63594,
+        "pe_ratio": 39.177567,
         "debt_to_equity": 223.775,
         "revenue_growth_yoy_pct": 11.8,
         "earnings_growth_yoy_pct": -16.4,
@@ -4516,7 +4516,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "ORLY",
@@ -4543,7 +4543,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "KMI",
@@ -4571,7 +4571,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "URI",
@@ -4623,7 +4623,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "AJG",
@@ -4831,7 +4831,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "TDG",
@@ -4852,7 +4852,7 @@
         "sma100": 1197.88,
         "sma200": 1225.12,
         "rsi14": 66.2,
-        "volume_trend_pct": -3.2,
+        "volume_trend_pct": -3.3,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
@@ -4962,7 +4962,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "COR",
@@ -5094,7 +5094,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "NUE",
@@ -5146,7 +5146,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "AFL",
@@ -5167,7 +5167,7 @@
         "sma100": 119.22,
         "sma200": 115.95,
         "rsi14": 68.9,
-        "volume_trend_pct": -26.9,
+        "volume_trend_pct": -27.0,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -5192,7 +5192,7 @@
         "sma100": 310.66,
         "sma200": 303.06,
         "rsi14": 76.1,
-        "volume_trend_pct": -8.5,
+        "volume_trend_pct": -8.6,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
@@ -5217,11 +5217,11 @@
         "sma100": 866.84,
         "sma200": 802.88,
         "rsi14": 34.6,
-        "volume_trend_pct": 38.0,
+        "volume_trend_pct": 37.9,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "NDAQ",
@@ -5273,7 +5273,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "MPWR",
@@ -5300,7 +5300,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "FAST",
@@ -5432,7 +5432,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "NKE",
@@ -5459,7 +5459,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "BE",
@@ -5539,7 +5539,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "AME",
@@ -5642,7 +5642,7 @@
         "sma100": 174.07,
         "sma200": 166.15,
         "rsi14": 65.0,
-        "volume_trend_pct": -18.5,
+        "volume_trend_pct": -18.6,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
@@ -5696,7 +5696,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "EW",
@@ -5748,7 +5748,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "EBAY",
@@ -5756,7 +5756,7 @@
         "name": "eBay Inc.",
         "sector": "Consumer Discretionary",
         "market_cap": 53088268288,
-        "pe_ratio": 26.40393,
+        "pe_ratio": 26.57802,
         "debt_to_equity": 163.395,
         "revenue_growth_yoy_pct": 13.7,
         "earnings_growth_yoy_pct": -18.1,
@@ -5773,7 +5773,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "IDXX",
@@ -5794,7 +5794,7 @@
         "sma100": 548.28,
         "sma200": 572.42,
         "rsi14": 76.7,
-        "volume_trend_pct": 12.8,
+        "volume_trend_pct": 12.7,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
@@ -5806,7 +5806,7 @@
         "name": "Garmin",
         "sector": "Consumer Discretionary",
         "market_cap": 52854394880,
-        "pe_ratio": 26.348705,
+        "pe_ratio": 26.197708,
         "debt_to_equity": 2.351,
         "revenue_growth_yoy_pct": 12.2,
         "earnings_growth_yoy_pct": 34.6,
@@ -5826,7 +5826,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "BKR",
@@ -5851,7 +5851,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 18.7
+        "sector_pe_avg": 18.8
       },
       {
         "symbol": "ETR",
@@ -5903,7 +5903,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "LHX",
@@ -5911,7 +5911,7 @@
         "name": "L3Harris",
         "sector": "Industrials",
         "market_cap": 51942555648,
-        "pe_ratio": 25.973928,
+        "pe_ratio": 25.853567,
         "debt_to_equity": 51.802,
         "revenue_growth_yoy_pct": 7.1,
         "earnings_growth_yoy_pct": 33.3,
@@ -5980,7 +5980,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 164.2
+        "sector_pe_avg": 184.5
       },
       {
         "symbol": "F",
@@ -6007,7 +6007,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 50.0
+        "sector_pe_avg": 49.9
       },
       {
         "symbol": "KDP",
@@ -6015,7 +6015,7 @@
         "name": "Keurig Dr Pepper",
         "sector": "Consumer Staples",
         "market_cap": 50105614336,
-        "pe_ratio": 37.191917,
+        "pe_ratio": 36.098038,
         "debt_to_equity": 99.649,
         "revenue_growth_yoy_pct": 75.6,
         "earnings_growth_yoy_pct": -90.0,
@@ -6032,7 +6032,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 30.9
+        "sector_pe_avg": 30.7
       },
       {
         "symbol": "HONA",
@@ -6073,19 +6073,21 @@
         "debt_to_equity": 44.325,
         "revenue_growth_yoy_pct": 29.8,
         "earnings_growth_yoy_pct": 40.7,
-        "price": 1164.9,
+        "price": 1300.0,
         "week52_low": 1158.0,
         "week52_high": 1592.3,
         "all_time_high": 1600.9,
-        "sma20": 1186.41,
-        "sma50": 1235.88,
-        "sma100": 1269.5,
-        "sma200": 1329.33,
-        "rsi14": 40.3,
-        "volume_trend_pct": 81.3,
-        "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
+        "sma20": 1193.03,
+        "sma50": 1235.66,
+        "sma100": 1269.8,
+        "sma200": 1328.47,
+        "rsi14": 65.8,
+        "volume_trend_pct": 81.4,
+        "trend": "Mixed",
+        "buying_range": true,
+        "buying_range_basis": [
+          "100DMA"
+        ],
         "sector_pe_avg": 23.7
       },
       {
@@ -6098,15 +6100,15 @@
         "debt_to_equity": 100.415,
         "revenue_growth_yoy_pct": 18.4,
         "earnings_growth_yoy_pct": 35.1,
-        "price": 1973.7,
+        "price": 1989.9,
         "week52_low": 1741.1,
         "week52_high": 2162.7,
         "all_time_high": 2162.7,
-        "sma20": 1862.9,
-        "sma50": 1856.25,
-        "sma100": 1882.38,
-        "sma200": 1889.25,
-        "rsi14": 65.4,
+        "sma20": 1875.34,
+        "sma50": 1857.61,
+        "sma100": 1884.29,
+        "sma200": 1888.87,
+        "rsi14": 67.1,
         "volume_trend_pct": 37.3,
         "trend": "Mixed",
         "buying_range": false,
@@ -6119,26 +6121,26 @@
         "name": "HDFC Bank Ltd.",
         "sector": "Financial Services",
         "market_cap": 10802605064192,
-        "pe_ratio": 15.300547,
+        "pe_ratio": 15.141683,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 80.8,
         "earnings_growth_yoy_pct": 21.3,
-        "price": 692.8,
+        "price": 700.0,
         "week52_low": 680.2,
         "week52_high": 1009.5,
         "all_time_high": 1012.9,
-        "sma20": 703.02,
-        "sma50": 712.06,
-        "sma100": 741.52,
-        "sma200": 789.52,
-        "rsi14": 44.1,
+        "sma20": 701.96,
+        "sma50": 711.66,
+        "sma100": 741.14,
+        "sma200": 788.29,
+        "rsi14": 47.8,
         "volume_trend_pct": -1.8,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "ICICIBANK",
@@ -6150,15 +6152,15 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 15.8,
         "earnings_growth_yoy_pct": 22.1,
-        "price": 1398.0,
+        "price": 1387.4,
         "week52_low": 1205.9,
         "week52_high": 1463.1,
         "all_time_high": 1488.6,
-        "sma20": 1369.14,
-        "sma50": 1377.99,
-        "sma100": 1389.21,
-        "sma200": 1354.88,
-        "rsi14": 56.9,
+        "sma20": 1372.98,
+        "sma50": 1377.69,
+        "sma100": 1390.34,
+        "sma200": 1354.64,
+        "rsi14": 53.6,
         "volume_trend_pct": 17.4,
         "trend": "Uptrend",
         "buying_range": true,
@@ -6166,7 +6168,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "SBIN",
@@ -6178,22 +6180,23 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 10.3,
         "earnings_growth_yoy_pct": 9.9,
-        "price": 961.85,
-        "week52_low": 904.5,
+        "price": 987.0,
+        "week52_low": 922.75,
         "week52_high": 1227.8,
         "all_time_high": 1227.8,
-        "sma20": 958.06,
-        "sma50": 989.6,
-        "sma100": 1013.66,
-        "sma200": 1039.17,
-        "rsi14": 47.4,
+        "sma20": 959.7,
+        "sma50": 988.37,
+        "sma100": 1013.5,
+        "sma200": 1039.11,
+        "rsi14": 56.0,
         "volume_trend_pct": -2.8,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA"
+          "50DMA",
+          "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "TCS",
@@ -6201,19 +6204,19 @@
         "name": "Tata Consultancy Services Ltd.",
         "sector": "Information Technology",
         "market_cap": 9051368849408,
-        "pe_ratio": 17.536098,
+        "pe_ratio": 17.542248,
         "debt_to_equity": 9.83,
         "revenue_growth_yoy_pct": 11.2,
         "earnings_growth_yoy_pct": 15.0,
-        "price": 2502.6,
+        "price": 2501.7,
         "week52_low": 1982.6,
         "week52_high": 3324.9,
         "all_time_high": 4553.75,
-        "sma20": 2330.76,
-        "sma50": 2264.09,
-        "sma100": 2245.92,
-        "sma200": 2431.78,
-        "rsi14": 67.2,
+        "sma20": 2352.09,
+        "sma50": 2268.34,
+        "sma100": 2249.43,
+        "sma200": 2428.27,
+        "rsi14": 67.0,
         "volume_trend_pct": 8.9,
         "trend": "Mixed",
         "buying_range": false,
@@ -6230,20 +6233,20 @@
         "debt_to_equity": 342.416,
         "revenue_growth_yoy_pct": 26.7,
         "earnings_growth_yoy_pct": 28.4,
-        "price": 939.1,
+        "price": 959.4,
         "week52_low": 801.55,
         "week52_high": 1158.8,
         "all_time_high": 1158.8,
-        "sma20": 949.29,
-        "sma50": 1004.34,
-        "sma100": 1016.89,
-        "sma200": 972.6,
-        "rsi14": 43.5,
+        "sma20": 949.85,
+        "sma50": 1001.93,
+        "sma100": 1017.61,
+        "sma200": 972.54,
+        "rsi14": 49.3,
         "volume_trend_pct": 7.1,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "LT",
@@ -6251,19 +6254,19 @@
         "name": "Larsen & Toubro Ltd.",
         "sector": "Construction",
         "market_cap": 5420857950208,
-        "pe_ratio": 30.348942,
+        "pe_ratio": 29.82513,
         "debt_to_equity": 105.287,
         "revenue_growth_yoy_pct": 16.9,
         "earnings_growth_yoy_pct": 32.5,
-        "price": 3871.7,
+        "price": 3939.9,
         "week52_low": 3342.4,
         "week52_high": 4418.1,
         "all_time_high": 4418.1,
-        "sma20": 3694.27,
-        "sma50": 3844.2,
-        "sma100": 3922.09,
-        "sma200": 3931.82,
-        "rsi14": 61.5,
+        "sma20": 3706.59,
+        "sma50": 3842.17,
+        "sma100": 3922.48,
+        "sma200": 3931.38,
+        "rsi14": 65.9,
         "volume_trend_pct": 31.0,
         "trend": "Mixed",
         "buying_range": true,
@@ -6271,7 +6274,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 30.3
+        "sector_pe_avg": 29.8
       },
       {
         "symbol": "INFY",
@@ -6283,15 +6286,15 @@
         "debt_to_equity": 8.567,
         "revenue_growth_yoy_pct": 1.4,
         "earnings_growth_yoy_pct": -0.0,
-        "price": 1185.0,
+        "price": 1161.0,
         "week52_low": 985.3,
         "week52_high": 1689.8,
         "all_time_high": 1999.7,
-        "sma20": 1095.63,
-        "sma50": 1085.28,
-        "sma100": 1094.28,
-        "sma200": 1215.05,
-        "rsi14": 64.4,
+        "sma20": 1101.93,
+        "sma50": 1086.1,
+        "sma100": 1094.09,
+        "sma200": 1212.79,
+        "rsi14": 59.2,
         "volume_trend_pct": 51.7,
         "trend": "Mixed",
         "buying_range": false,
@@ -6304,24 +6307,24 @@
         "name": "Kotak Mahindra Bank Ltd.",
         "sector": "Financial Services",
         "market_cap": 4559611625472,
-        "pe_ratio": 21.239574,
+        "pe_ratio": 21.38824,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 20.7,
         "earnings_growth_yoy_pct": 26.2,
-        "price": 461.6,
+        "price": 458.35,
         "week52_low": 353.4,
         "week52_high": 461.6,
         "all_time_high": 461.6,
-        "sma20": 439.47,
-        "sma50": 423.6,
-        "sma100": 407.45,
-        "sma200": 400.61,
-        "rsi14": 69.1,
+        "sma20": 441.47,
+        "sma50": 424.96,
+        "sma100": 408.21,
+        "sma200": 400.77,
+        "rsi14": 66.0,
         "volume_trend_pct": 34.8,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "HINDUNILVR",
@@ -6333,22 +6336,22 @@
         "debt_to_equity": 3.405,
         "revenue_growth_yoy_pct": 12.2,
         "earnings_growth_yoy_pct": 3.9,
-        "price": 1864.6,
+        "price": 1898.3,
         "week52_low": 1814.7,
-        "week52_high": 2516.4,
+        "week52_high": 2511.8,
         "all_time_high": 3028.55,
-        "sma20": 1852.02,
-        "sma50": 1918.92,
-        "sma100": 2027.39,
-        "sma200": 2142.77,
-        "rsi14": 48.2,
+        "sma20": 1855.13,
+        "sma50": 1916.47,
+        "sma100": 2025.04,
+        "sma200": 2140.33,
+        "rsi14": 54.6,
         "volume_trend_pct": 10.1,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "ADANIPORTS",
@@ -6356,19 +6359,19 @@
         "name": "Adani Ports and Special Economic Zone Ltd.",
         "sector": "Services",
         "market_cap": 4271540011008,
-        "pe_ratio": 30.941256,
+        "pe_ratio": 30.874271,
         "debt_to_equity": 62.663,
         "revenue_growth_yoy_pct": 23.7,
         "earnings_growth_yoy_pct": 9.2,
-        "price": 1850.0,
+        "price": 1854.0,
         "week52_low": 1303.6,
         "week52_high": 1883.2,
         "all_time_high": 1883.2,
-        "sma20": 1761.59,
-        "sma50": 1743.26,
-        "sma100": 1761.23,
-        "sma200": 1653.96,
-        "rsi14": 61.3,
+        "sma20": 1767.4,
+        "sma50": 1746.7,
+        "sma100": 1761.51,
+        "sma200": 1655.9,
+        "rsi14": 61.7,
         "volume_trend_pct": 23.3,
         "trend": "Uptrend",
         "buying_range": false,
@@ -6385,15 +6388,15 @@
         "debt_to_equity": 3.619,
         "revenue_growth_yoy_pct": 11.9,
         "earnings_growth_yoy_pct": -36.2,
-        "price": 1777.7,
+        "price": 1770.0,
         "week52_low": 1589.3,
         "week52_high": 2001.1,
         "all_time_high": 2001.1,
-        "sma20": 1763.35,
-        "sma50": 1834.81,
-        "sma100": 1870.24,
-        "sma200": 1808.86,
-        "rsi14": 47.7,
+        "sma20": 1761.8,
+        "sma50": 1832.21,
+        "sma100": 1870.15,
+        "sma200": 1808.91,
+        "rsi14": 45.6,
         "volume_trend_pct": 6.5,
         "trend": "Mixed",
         "buying_range": false,
@@ -6410,20 +6413,20 @@
         "debt_to_equity": 195.001,
         "revenue_growth_yoy_pct": 29.3,
         "earnings_growth_yoy_pct": 62.8,
-        "price": 4436.5,
-        "week52_low": 3714.9,
+        "price": 4476.3,
+        "week52_low": 3717.0,
         "week52_high": 5169.2,
         "all_time_high": 5169.2,
-        "sma20": 4418.79,
-        "sma50": 4747.73,
-        "sma100": 4686.25,
-        "sma200": 4445.56,
-        "rsi14": 43.4,
+        "sma20": 4416.82,
+        "sma50": 4735.9,
+        "sma100": 4689.96,
+        "sma200": 4446.7,
+        "rsi14": 47.0,
         "volume_trend_pct": -19.2,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.7
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "HCLTECH",
@@ -6435,15 +6438,15 @@
         "debt_to_equity": 7.905,
         "revenue_growth_yoy_pct": 2.2,
         "earnings_growth_yoy_pct": 10.8,
-        "price": 1428.1,
+        "price": 1434.0,
         "week52_low": 1034.2,
         "week52_high": 1729.6,
         "all_time_high": 1995.1,
-        "sma20": 1328.07,
-        "sma50": 1297.61,
-        "sma100": 1258.09,
-        "sma200": 1325.5,
-        "rsi14": 69.9,
+        "sma20": 1337.62,
+        "sma50": 1299.79,
+        "sma100": 1260.96,
+        "sma200": 1324.43,
+        "rsi14": 70.6,
         "volume_trend_pct": -0.4,
         "trend": "Mixed",
         "buying_range": false,
@@ -6460,19 +6463,21 @@
         "debt_to_equity": 80.458,
         "revenue_growth_yoy_pct": 44.5,
         "earnings_growth_yoy_pct": 134.6,
-        "price": 189.0,
+        "price": 195.35,
         "week52_low": 132.96,
         "week52_high": 248.91,
         "all_time_high": 248.91,
-        "sma20": 191.07,
-        "sma50": 199.81,
-        "sma100": 208.63,
-        "sma200": 191.61,
-        "rsi14": 45.4,
+        "sma20": 191.03,
+        "sma50": 199.64,
+        "sma100": 208.32,
+        "sma200": 191.87,
+        "rsi14": 51.9,
         "volume_trend_pct": -12.8,
         "trend": "Mixed",
-        "buying_range": false,
-        "buying_range_basis": [],
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
         "sector_pe_avg": 43.9
       },
       {
@@ -6485,22 +6490,22 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 21.1,
         "earnings_growth_yoy_pct": 39.0,
-        "price": 1217.0,
+        "price": 1209.0,
         "week52_low": 1161.3,
         "week52_high": 1403.0,
         "all_time_high": 1403.0,
-        "sma20": 1238.05,
-        "sma50": 1241.74,
-        "sma100": 1268.73,
-        "sma200": 1283.14,
-        "rsi14": 44.7,
+        "sma20": 1237.65,
+        "sma50": 1241.22,
+        "sma100": 1267.89,
+        "sma200": 1282.75,
+        "rsi14": 42.6,
         "volume_trend_pct": 4.0,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "MARUTI",
@@ -6508,24 +6513,24 @@
         "name": "Maruti Suzuki India Ltd.",
         "sector": "Automobile and Auto Components",
         "market_cap": 3669706670080,
-        "pe_ratio": 27.281866,
+        "pe_ratio": 26.63867,
         "debt_to_equity": 0.076,
         "revenue_growth_yoy_pct": 26.0,
         "earnings_growth_yoy_pct": -26.4,
-        "price": 11397.0,
+        "price": 11672.0,
         "week52_low": 11170.0,
         "week52_high": 17292.0,
         "all_time_high": 17292.0,
-        "sma20": 11373.0,
-        "sma50": 12187.64,
-        "sma100": 12986.05,
-        "sma200": 13479.0,
-        "rsi14": 42.5,
+        "sma20": 11387.3,
+        "sma50": 12147.28,
+        "sma100": 12971.57,
+        "sma200": 13454.04,
+        "rsi14": 50.9,
         "volume_trend_pct": 0.9,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "ADANIENT",
@@ -6533,24 +6538,24 @@
         "name": "Adani Enterprises Ltd.",
         "sector": "Metals & Mining",
         "market_cap": 3540526039040,
-        "pe_ratio": 55.75357,
+        "pe_ratio": 54.991585,
         "debt_to_equity": 113.711,
         "revenue_growth_yoy_pct": 75.1,
         "earnings_growth_yoy_pct": -59.6,
-        "price": 2579.4,
+        "price": 2615.4,
         "week52_low": 1758.8,
         "week52_high": 3212.1,
         "all_time_high": 4165.3,
-        "sma20": 2644.39,
-        "sma50": 2846.16,
-        "sma100": 2949.19,
-        "sma200": 2604.71,
-        "rsi14": 41.4,
+        "sma20": 2634.32,
+        "sma50": 2838.66,
+        "sma100": 2945.54,
+        "sma200": 2606.72,
+        "rsi14": 44.5,
         "volume_trend_pct": -14.3,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "M&M",
@@ -6562,20 +6567,20 @@
         "debt_to_equity": 125.278,
         "revenue_growth_yoy_pct": 27.5,
         "earnings_growth_yoy_pct": 33.4,
-        "price": 2840.3,
+        "price": 2868.8,
         "week52_low": 2751.2,
         "week52_high": 3802.4,
         "all_time_high": 3802.4,
-        "sma20": 2850.33,
-        "sma50": 3044.06,
-        "sma100": 3127.27,
-        "sma200": 3203.46,
-        "rsi14": 40.2,
+        "sma20": 2850.77,
+        "sma50": 3033.14,
+        "sma100": 3126.06,
+        "sma200": 3199.19,
+        "rsi14": 44.4,
         "volume_trend_pct": -20.7,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "ULTRACEMCO",
@@ -6603,7 +6608,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 40.1
+        "sector_pe_avg": 39.8
       },
       {
         "symbol": "ITC",
@@ -6615,22 +6620,23 @@
         "debt_to_equity": 3.293,
         "revenue_growth_yoy_pct": -11.1,
         "earnings_growth_yoy_pct": -16.0,
-        "price": 265.6,
+        "price": 266.4,
         "week52_low": 255.0,
         "week52_high": 421.6,
         "all_time_high": 503.36,
-        "sma20": 261.81,
-        "sma50": 263.93,
-        "sma100": 274.09,
-        "sma200": 291.86,
-        "rsi14": 53.5,
+        "sma20": 262.33,
+        "sma50": 263.92,
+        "sma100": 273.96,
+        "sma200": 291.49,
+        "rsi14": 54.5,
         "volume_trend_pct": 14.9,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA"
+          "50DMA",
+          "100DMA"
         ],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "HAL",
@@ -6642,22 +6648,22 @@
         "debt_to_equity": 0.16,
         "revenue_growth_yoy_pct": 14.4,
         "earnings_growth_yoy_pct": 14.9,
-        "price": 4853.7,
+        "price": 4855.0,
         "week52_low": 3487.2,
         "week52_high": 5099.0,
         "all_time_high": 5621.95,
-        "sma20": 4811.21,
-        "sma50": 4827.88,
-        "sma100": 4688.54,
-        "sma200": 4451.28,
-        "rsi14": 52.1,
+        "sma20": 4823.91,
+        "sma50": 4824.64,
+        "sma100": 4694.45,
+        "sma200": 4453.16,
+        "rsi14": 52.2,
         "volume_trend_pct": -15.0,
         "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "JSWSTEEL",
@@ -6669,23 +6675,20 @@
         "debt_to_equity": 61.529,
         "revenue_growth_yoy_pct": 20.7,
         "earnings_growth_yoy_pct": 225.2,
-        "price": 1246.0,
+        "price": 1309.9,
         "week52_low": 1079.3,
         "week52_high": 1341.0,
         "all_time_high": 1341.0,
-        "sma20": 1218.43,
-        "sma50": 1262.55,
-        "sma100": 1262.07,
-        "sma200": 1244.74,
-        "rsi14": 52.0,
+        "sma20": 1222.28,
+        "sma50": 1263.03,
+        "sma100": 1262.56,
+        "sma200": 1245.51,
+        "rsi14": 62.1,
         "volume_trend_pct": 37.1,
-        "trend": "Mixed",
-        "buying_range": true,
-        "buying_range_basis": [
-          "50DMA",
-          "100DMA"
-        ],
-        "sector_pe_avg": 19.0
+        "trend": "Uptrend",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "ETERNAL",
@@ -6697,15 +6700,15 @@
         "debt_to_equity": 18.412,
         "revenue_growth_yoy_pct": 77.6,
         "earnings_growth_yoy_pct": 85.7,
-        "price": 343.65,
+        "price": 344.0,
         "week52_low": 215.68,
-        "week52_high": 343.65,
+        "week52_high": 344.0,
         "all_time_high": 354.35,
-        "sma20": 323.02,
-        "sma50": 325.37,
-        "sma100": 305.31,
-        "sma200": 280.52,
-        "rsi14": 62.2,
+        "sma20": 324.52,
+        "sma50": 325.85,
+        "sma100": 306.3,
+        "sma200": 280.82,
+        "rsi14": 62.4,
         "volume_trend_pct": 18.4,
         "trend": "Uptrend",
         "buying_range": false,
@@ -6722,17 +6725,17 @@
         "debt_to_equity": 126.0,
         "revenue_growth_yoy_pct": 21.2,
         "earnings_growth_yoy_pct": 38.6,
-        "price": 316.25,
+        "price": 323.0,
         "week52_low": 298.0,
         "week52_high": 410.2,
         "all_time_high": 443.2,
-        "sma20": 310.31,
-        "sma50": 322.39,
-        "sma100": 336.03,
-        "sma200": 355.67,
-        "rsi14": 53.2,
+        "sma20": 310.71,
+        "sma50": 322.12,
+        "sma100": 335.7,
+        "sma200": 355.56,
+        "rsi14": 59.6,
         "volume_trend_pct": -3.0,
-        "trend": "Downtrend",
+        "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
@@ -6749,20 +6752,21 @@
         "debt_to_equity": 42.548,
         "revenue_growth_yoy_pct": 25.7,
         "earnings_growth_yoy_pct": 21.4,
-        "price": 225.39,
+        "price": 234.83,
         "week52_low": 219.8,
         "week52_high": 301.4,
         "all_time_high": 341.75,
-        "sma20": 224.33,
-        "sma50": 230.48,
-        "sma100": 236.91,
-        "sma200": 255.37,
-        "rsi14": 46.3,
+        "sma20": 224.96,
+        "sma50": 230.41,
+        "sma100": 236.66,
+        "sma200": 255.38,
+        "rsi14": 61.0,
         "volume_trend_pct": -26.9,
-        "trend": "Downtrend",
+        "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA"
+          "50DMA",
+          "100DMA"
         ],
         "sector_pe_avg": 23.7
       },
@@ -6789,7 +6793,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "BEL",
@@ -6801,20 +6805,20 @@
         "debt_to_equity": 0.324,
         "revenue_growth_yoy_pct": 26.5,
         "earnings_growth_yoy_pct": 19.9,
-        "price": 369.9,
+        "price": 376.5,
         "week52_low": 362.0,
         "week52_high": 468.45,
         "all_time_high": 468.45,
-        "sma20": 373.59,
-        "sma50": 390.57,
-        "sma100": 399.44,
-        "sma200": 415.56,
-        "rsi14": 42.6,
+        "sma20": 373.26,
+        "sma50": 389.92,
+        "sma100": 399.09,
+        "sma200": 415.36,
+        "rsi14": 49.2,
         "volume_trend_pct": -13.9,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "BAJAJFINSV",
@@ -6839,7 +6843,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "DIVISLAB",
@@ -6851,15 +6855,15 @@
         "debt_to_equity": 0.042,
         "revenue_growth_yoy_pct": 27.8,
         "earnings_growth_yoy_pct": 65.7,
-        "price": 9780.0,
+        "price": 9945.5,
         "week52_low": 5821.0,
-        "week52_high": 9780.0,
-        "all_time_high": 9780.0,
-        "sma20": 9306.98,
-        "sma50": 9254.12,
-        "sma100": 8296.08,
-        "sma200": 7312.94,
-        "rsi14": 64.4,
+        "week52_high": 9945.5,
+        "all_time_high": 9945.5,
+        "sma20": 9341.8,
+        "sma50": 9281.83,
+        "sma100": 8328.0,
+        "sma200": 7329.66,
+        "rsi14": 67.6,
         "volume_trend_pct": 53.3,
         "trend": "Uptrend",
         "buying_range": false,
@@ -6876,19 +6880,22 @@
         "debt_to_equity": 12.018,
         "revenue_growth_yoy_pct": 64.2,
         "earnings_growth_yoy_pct": 49.5,
-        "price": 389.0,
+        "price": 408.0,
         "week52_low": 370.05,
         "week52_high": 481.65,
         "all_time_high": 540.4,
-        "sma20": 407.72,
-        "sma50": 412.4,
-        "sma100": 421.09,
-        "sma200": 433.46,
-        "rsi14": 34.5,
+        "sma20": 407.1,
+        "sma50": 412.56,
+        "sma100": 420.51,
+        "sma200": 433.37,
+        "rsi14": 50.2,
         "volume_trend_pct": 4.8,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA",
+          "100DMA"
+        ],
         "sector_pe_avg": 23.7
       },
       {
@@ -6901,15 +6908,15 @@
         "debt_to_equity": 150.813,
         "revenue_growth_yoy_pct": 2.7,
         "earnings_growth_yoy_pct": -0.8,
-        "price": 265.0,
+        "price": 267.7,
         "week52_low": 244.65,
         "week52_high": 320.9,
         "all_time_high": 365.45,
-        "sma20": 251.89,
-        "sma50": 260.48,
-        "sma100": 271.69,
-        "sma200": 282.62,
-        "rsi14": 62.4,
+        "sma20": 252.55,
+        "sma50": 260.57,
+        "sma100": 271.51,
+        "sma200": 282.66,
+        "rsi14": 65.0,
         "volume_trend_pct": -1.0,
         "trend": "Mixed",
         "buying_range": true,
@@ -6929,20 +6936,22 @@
         "debt_to_equity": 0.431,
         "revenue_growth_yoy_pct": 6.8,
         "earnings_growth_yoy_pct": 40.0,
-        "price": 383.25,
+        "price": 389.0,
         "week52_low": 362.83,
         "week52_high": 462.08,
         "all_time_high": 594.05,
-        "sma20": 389.77,
-        "sma50": 401.29,
-        "sma100": 411.34,
-        "sma200": 409.74,
-        "rsi14": 42.1,
+        "sma20": 389.63,
+        "sma50": 400.81,
+        "sma100": 411.19,
+        "sma200": 409.59,
+        "rsi14": 47.0,
         "volume_trend_pct": -14.8,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "NESTLEIND",
@@ -6950,24 +6959,24 @@
         "name": "Nestle India Ltd.",
         "sector": "Fast Moving Consumer Goods",
         "market_cap": 2304335675392,
-        "pe_ratio": 56.501183,
+        "pe_ratio": 55.170822,
         "debt_to_equity": 8.035,
         "revenue_growth_yoy_pct": 20.3,
         "earnings_growth_yoy_pct": 35.8,
-        "price": 1167.0,
+        "price": 1195.0,
         "week52_low": 1166.8,
         "week52_high": 1540.0,
         "all_time_high": 1540.0,
-        "sma20": 1260.72,
-        "sma50": 1348.18,
-        "sma100": 1400.87,
-        "sma200": 1360.7,
-        "rsi14": 30.0,
+        "sma20": 1255.09,
+        "sma50": 1342.78,
+        "sma100": 1398.72,
+        "sma200": 1360.14,
+        "rsi14": 36.8,
         "volume_trend_pct": -15.7,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "ASIANPAINT",
@@ -6992,7 +7001,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.7
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "TATASTEEL",
@@ -7004,20 +7013,22 @@
         "debt_to_equity": 89.017,
         "revenue_growth_yoy_pct": 14.3,
         "earnings_growth_yoy_pct": 11.4,
-        "price": 167.6,
+        "price": 177.37,
         "week52_low": 160.67,
         "week52_high": 221.13,
         "all_time_high": 221.13,
-        "sma20": 173.2,
-        "sma50": 180.72,
-        "sma100": 185.32,
-        "sma200": 193.81,
-        "rsi14": 34.4,
-        "volume_trend_pct": -22.0,
+        "sma20": 173.17,
+        "sma50": 180.59,
+        "sma100": 185.06,
+        "sma200": 193.79,
+        "rsi14": 53.0,
+        "volume_trend_pct": -21.9,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "ADANIGREEN",
@@ -7029,20 +7040,20 @@
         "debt_to_equity": 375.343,
         "revenue_growth_yoy_pct": 41.6,
         "earnings_growth_yoy_pct": 16.3,
-        "price": 1298.7,
+        "price": 1337.0,
         "week52_low": 772.8,
         "week52_high": 1604.5,
         "all_time_high": 2970.5,
-        "sma20": 1279.85,
-        "sma50": 1286.41,
-        "sma100": 1373.16,
-        "sma200": 1221.49,
-        "rsi14": 52.3,
+        "sma20": 1282.89,
+        "sma50": 1287.29,
+        "sma100": 1371.19,
+        "sma200": 1223.23,
+        "rsi14": 56.9,
         "volume_trend_pct": -20.6,
         "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA"
+          "100DMA"
         ],
         "sector_pe_avg": 43.9
       },
@@ -7069,7 +7080,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "DMART",
@@ -7102,24 +7113,27 @@
         "name": "Grasim Industries Ltd.",
         "sector": "Construction Materials",
         "market_cap": 2073598361600,
-        "pe_ratio": 36.459156,
+        "pe_ratio": 35.555943,
         "debt_to_equity": 135.044,
         "revenue_growth_yoy_pct": 21.4,
         "earnings_growth_yoy_pct": 51.3,
-        "price": 2981.4,
+        "price": 3057.1,
         "week52_low": 2531.1,
         "week52_high": 3380.5,
         "all_time_high": 3380.5,
-        "sma20": 2912.07,
-        "sma50": 3111.0,
-        "sma100": 3138.27,
-        "sma200": 2982.89,
-        "rsi14": 50.2,
+        "sma20": 2916.82,
+        "sma50": 3106.75,
+        "sma100": 3137.88,
+        "sma200": 2984.22,
+        "rsi14": 57.8,
         "volume_trend_pct": -50.2,
         "trend": "Mixed",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 40.1
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA",
+          "100DMA"
+        ],
+        "sector_pe_avg": 39.8
       },
       {
         "symbol": "HINDALCO",
@@ -7131,20 +7145,20 @@
         "debt_to_equity": 72.598,
         "revenue_growth_yoy_pct": 32.1,
         "earnings_growth_yoy_pct": 75.1,
-        "price": 884.7,
+        "price": 911.4,
         "week52_low": 774.65,
         "week52_high": 1149.7,
         "all_time_high": 1149.7,
-        "sma20": 899.08,
-        "sma50": 961.49,
-        "sma100": 976.32,
-        "sma200": 980.53,
-        "rsi14": 38.8,
+        "sma20": 897.55,
+        "sma50": 958.94,
+        "sma100": 974.67,
+        "sma200": 980.57,
+        "rsi14": 48.7,
         "volume_trend_pct": -20.5,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "SHRIRAMFIN",
@@ -7152,24 +7166,24 @@
         "name": "Shriram Finance Ltd.",
         "sector": "Financial Services",
         "market_cap": 2031537356800,
-        "pe_ratio": 14.389166,
+        "pe_ratio": 13.719212,
         "debt_to_equity": 146.073,
         "revenue_growth_yoy_pct": 37.9,
         "earnings_growth_yoy_pct": 27.4,
-        "price": 823.15,
-        "week52_low": 715.45,
+        "price": 863.35,
+        "week52_low": 719.6,
         "week52_high": 1141.0,
         "all_time_high": 1141.0,
-        "sma20": 909.05,
-        "sma50": 989.56,
-        "sma100": 1016.21,
-        "sma200": 1002.88,
-        "rsi14": 28.6,
+        "sma20": 904.97,
+        "sma50": 984.71,
+        "sma100": 1015.73,
+        "sma200": 1002.24,
+        "rsi14": 39.4,
         "volume_trend_pct": 30.3,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "TVSMOTOR",
@@ -7196,7 +7210,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "EICHERMOT",
@@ -7221,7 +7235,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "WIPRO",
@@ -7229,19 +7243,19 @@
         "name": "Wipro Ltd.",
         "sector": "Information Technology",
         "market_cap": 1943132831744,
-        "pe_ratio": 15.4281225,
+        "pe_ratio": 15.574941,
         "debt_to_equity": 27.753,
         "revenue_growth_yoy_pct": 9.1,
         "earnings_growth_yoy_pct": 4.5,
-        "price": 198.31,
+        "price": 196.4,
         "week52_low": 156.79,
         "week52_high": 272.67,
         "all_time_high": 360.75,
-        "sma20": 176.24,
-        "sma50": 173.45,
-        "sma100": 176.33,
-        "sma200": 193.5,
-        "rsi14": 73.7,
+        "sma20": 178.09,
+        "sma50": 173.79,
+        "sma100": 176.48,
+        "sma200": 193.17,
+        "rsi14": 70.5,
         "volume_trend_pct": 38.9,
         "trend": "Mixed",
         "buying_range": false,
@@ -7258,20 +7272,21 @@
         "debt_to_equity": 1738.69,
         "revenue_growth_yoy_pct": 25.9,
         "earnings_growth_yoy_pct": null,
-        "price": 4877.6,
+        "price": 4919.9,
         "week52_low": 3943.5,
         "week52_high": 5919.0,
         "all_time_high": 6155.5,
-        "sma20": 4763.41,
-        "sma50": 4913.32,
-        "sma100": 5044.31,
-        "sma200": 4797.0,
-        "rsi14": 55.3,
+        "sma20": 4762.91,
+        "sma50": 4907.86,
+        "sma100": 5048.13,
+        "sma200": 4797.07,
+        "rsi14": 57.5,
         "volume_trend_pct": -31.4,
-        "trend": "Mixed",
+        "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA"
+          "50DMA",
+          "100DMA"
         ],
         "sector_pe_avg": 98.1
       },
@@ -7285,20 +7300,21 @@
         "debt_to_equity": 58.206,
         "revenue_growth_yoy_pct": 42.2,
         "earnings_growth_yoy_pct": 173.6,
-        "price": 130.15,
+        "price": 134.59,
         "week52_low": 125.35,
         "week52_high": 187.47,
         "all_time_high": 202.12,
-        "sma20": 129.39,
-        "sma50": 133.46,
-        "sma100": 137.31,
-        "sma200": 145.41,
-        "rsi14": 47.0,
+        "sma20": 129.55,
+        "sma50": 133.42,
+        "sma100": 137.27,
+        "sma200": 145.3,
+        "rsi14": 58.4,
         "volume_trend_pct": -1.3,
-        "trend": "Downtrend",
+        "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA"
+          "50DMA",
+          "100DMA"
         ],
         "sector_pe_avg": 23.7
       },
@@ -7312,19 +7328,20 @@
         "debt_to_equity": 23.271,
         "revenue_growth_yoy_pct": 70.3,
         "earnings_growth_yoy_pct": 92.7,
-        "price": 18800.0,
+        "price": 19438.0,
         "week52_low": 11772.0,
         "week52_high": 22455.0,
         "all_time_high": 22455.0,
-        "sma20": 19562.95,
-        "sma50": 19954.1,
-        "sma100": 19168.66,
-        "sma200": 16903.99,
-        "rsi14": 42.3,
+        "sma20": 19564.85,
+        "sma50": 19948.44,
+        "sma100": 19180.37,
+        "sma200": 16934.53,
+        "rsi14": 49.3,
         "volume_trend_pct": -34.7,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
+          "50DMA",
           "100DMA"
         ],
         "sector_pe_avg": 51.0
@@ -7339,15 +7356,15 @@
         "debt_to_equity": 7.249,
         "revenue_growth_yoy_pct": 15.6,
         "earnings_growth_yoy_pct": 32.5,
-        "price": 1790.8,
+        "price": 1786.9,
         "week52_low": 1331.7,
         "week52_high": 1834.7,
         "all_time_high": 1834.7,
-        "sma20": 1664.04,
-        "sma50": 1607.52,
-        "sma100": 1565.41,
-        "sma200": 1525.49,
-        "rsi14": 65.8,
+        "sma20": 1676.73,
+        "sma50": 1611.46,
+        "sma100": 1568.44,
+        "sma200": 1526.53,
+        "rsi14": 65.1,
         "volume_trend_pct": 23.4,
         "trend": "Uptrend",
         "buying_range": false,
@@ -7389,15 +7406,15 @@
         "debt_to_equity": 0.69,
         "revenue_growth_yoy_pct": -23.3,
         "earnings_growth_yoy_pct": 10.1,
-        "price": 691.55,
+        "price": 701.0,
         "week52_low": 504.1,
         "week52_high": 779.5,
         "all_time_high": 1207.5,
-        "sma20": 665.44,
-        "sma50": 666.33,
-        "sma100": 655.28,
-        "sma200": 625.92,
-        "rsi14": 60.5,
+        "sma20": 667.57,
+        "sma50": 666.95,
+        "sma100": 656.54,
+        "sma200": 625.96,
+        "rsi14": 63.6,
         "volume_trend_pct": -42.7,
         "trend": "Uptrend",
         "buying_range": false,
@@ -7414,22 +7431,23 @@
         "debt_to_equity": 43.908,
         "revenue_growth_yoy_pct": 16.6,
         "earnings_growth_yoy_pct": 104.2,
-        "price": 156.5,
+        "price": 159.0,
         "week52_low": 102.55,
         "week52_high": 170.68,
         "all_time_high": 170.68,
-        "sma20": 157.33,
-        "sma50": 161.39,
-        "sma100": 155.57,
-        "sma200": 139.51,
-        "rsi14": 46.7,
+        "sma20": 157.42,
+        "sma50": 161.17,
+        "sma100": 155.72,
+        "sma200": 139.71,
+        "rsi14": 50.8,
         "volume_trend_pct": -38.6,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
+          "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "ADANIENSOL",
@@ -7441,15 +7459,15 @@
         "debt_to_equity": 169.745,
         "revenue_growth_yoy_pct": 52.8,
         "earnings_growth_yoy_pct": 148.0,
-        "price": 1349.5,
+        "price": 1377.9,
         "week52_low": 812.7,
         "week52_high": 1741.6,
         "all_time_high": 4105.4,
-        "sma20": 1315.28,
-        "sma50": 1381.98,
-        "sma100": 1492.99,
-        "sma200": 1311.98,
-        "rsi14": 51.6,
+        "sma20": 1317.86,
+        "sma50": 1378.72,
+        "sma100": 1490.98,
+        "sma200": 1313.9,
+        "rsi14": 54.7,
         "volume_trend_pct": -39.6,
         "trend": "Mixed",
         "buying_range": true,
@@ -7481,7 +7499,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "TRENT",
@@ -7493,15 +7511,15 @@
         "debt_to_equity": 29.486,
         "revenue_growth_yoy_pct": 21.9,
         "earnings_growth_yoy_pct": 23.1,
-        "price": 3017.3,
+        "price": 3046.4,
         "week52_low": 2197.2,
         "week52_high": 4798.7,
         "all_time_high": 8234.95,
-        "sma20": 2855.77,
-        "sma50": 2830.48,
-        "sma100": 2920.33,
-        "sma200": 2782.9,
-        "rsi14": 61.9,
+        "sma20": 2879.09,
+        "sma50": 2832.35,
+        "sma100": 2923.08,
+        "sma200": 2784.83,
+        "rsi14": 63.4,
         "volume_trend_pct": -2.9,
         "trend": "Uptrend",
         "buying_range": false,
@@ -7514,24 +7532,24 @@
         "name": "Hyundai Motor India Ltd.",
         "sector": "Automobile and Auto Components",
         "market_cap": 1612894175232,
-        "pe_ratio": 35.25755,
+        "pe_ratio": 33.94323,
         "debt_to_equity": 3.12,
         "revenue_growth_yoy_pct": 18.5,
         "earnings_growth_yoy_pct": -23.9,
-        "price": 1911.0,
+        "price": 1985.0,
         "week52_low": 1691.4,
         "week52_high": 2438.7,
         "all_time_high": 2809.3,
-        "sma20": 1936.51,
-        "sma50": 2076.17,
-        "sma100": 2052.73,
-        "sma200": 2028.82,
-        "rsi14": 40.9,
+        "sma20": 1934.56,
+        "sma50": 2072.38,
+        "sma100": 2053.59,
+        "sma200": 2027.0,
+        "rsi14": 51.8,
         "volume_trend_pct": 19.5,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "PIDILITIND",
@@ -7543,15 +7561,15 @@
         "debt_to_equity": 3.069,
         "revenue_growth_yoy_pct": 20.9,
         "earnings_growth_yoy_pct": 6.2,
-        "price": 1461.6,
+        "price": 1488.0,
         "week52_low": 1273.6,
         "week52_high": 1701.5,
         "all_time_high": 1701.5,
-        "sma20": 1476.15,
-        "sma50": 1544.63,
-        "sma100": 1573.38,
-        "sma200": 1499.95,
-        "rsi14": 44.5,
+        "sma20": 1477.35,
+        "sma50": 1541.39,
+        "sma100": 1573.44,
+        "sma200": 1499.88,
+        "rsi14": 49.5,
         "volume_trend_pct": 0.5,
         "trend": "Mixed",
         "buying_range": false,
@@ -7568,20 +7586,20 @@
         "debt_to_equity": 24.605,
         "revenue_growth_yoy_pct": 35.1,
         "earnings_growth_yoy_pct": null,
-        "price": 396.35,
+        "price": 401.4,
         "week52_low": 317.6,
         "week52_high": 505.3,
         "all_time_high": 505.3,
-        "sma20": 411.71,
-        "sma50": 436.0,
-        "sma100": 429.49,
-        "sma200": 430.52,
-        "rsi14": 38.4,
+        "sma20": 411.0,
+        "sma50": 434.47,
+        "sma100": 429.87,
+        "sma200": 430.35,
+        "rsi14": 41.9,
         "volume_trend_pct": -21.8,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "JIOFIN",
@@ -7593,20 +7611,20 @@
         "debt_to_equity": 31.949,
         "revenue_growth_yoy_pct": 26.7,
         "earnings_growth_yoy_pct": -53.6,
-        "price": 204.5,
+        "price": 213.25,
         "week52_low": 204.5,
         "week52_high": 314.9,
         "all_time_high": 387.95,
-        "sma20": 212.02,
-        "sma50": 224.72,
-        "sma100": 233.91,
-        "sma200": 241.47,
-        "rsi14": 32.5,
+        "sma20": 212.05,
+        "sma50": 224.12,
+        "sma100": 233.7,
+        "sma200": 241.06,
+        "rsi14": 47.6,
         "volume_trend_pct": -12.8,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "UNIONBANK",
@@ -7619,19 +7637,19 @@
         "revenue_growth_yoy_pct": 15.6,
         "earnings_growth_yoy_pct": 29.3,
         "price": 186.0,
-        "week52_low": 141.77,
+        "week52_low": 142.32,
         "week52_high": 202.27,
         "all_time_high": 417.9,
-        "sma20": 176.47,
-        "sma50": 179.45,
-        "sma100": 176.22,
-        "sma200": 176.3,
+        "sma20": 177.39,
+        "sma50": 179.43,
+        "sma100": 176.38,
+        "sma200": 176.42,
         "rsi14": 61.6,
         "volume_trend_pct": 54.4,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "BOSCHLTD",
@@ -7643,22 +7661,22 @@
         "debt_to_equity": 0.8,
         "revenue_growth_yoy_pct": 22.0,
         "earnings_growth_yoy_pct": -36.7,
-        "price": 47200.0,
+        "price": 48100.0,
         "week52_low": 28745.0,
         "week52_high": 50000.0,
         "all_time_high": 50000.0,
-        "sma20": 45118.5,
-        "sma50": 46851.1,
-        "sma100": 44226.5,
-        "sma200": 39822.05,
-        "rsi14": 58.4,
+        "sma20": 45249.5,
+        "sma50": 46843.9,
+        "sma100": 44329.3,
+        "sma200": 39869.25,
+        "rsi14": 62.6,
         "volume_trend_pct": -45.8,
         "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "BSE",
@@ -7670,22 +7688,22 @@
         "debt_to_equity": 0.0,
         "revenue_growth_yoy_pct": 64.0,
         "earnings_growth_yoy_pct": 62.1,
-        "price": 3510.4,
+        "price": 3490.0,
         "week52_low": 2419.7,
         "week52_high": 4403.3,
         "all_time_high": 4403.3,
-        "sma20": 3336.04,
-        "sma50": 3300.28,
-        "sma100": 3514.29,
-        "sma200": 3368.59,
-        "rsi14": 61.3,
+        "sma20": 3358.24,
+        "sma50": 3303.04,
+        "sma100": 3509.23,
+        "sma200": 3372.57,
+        "rsi14": 59.6,
         "volume_trend_pct": -35.1,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "PNB",
@@ -7697,20 +7715,20 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 7.4,
         "earnings_growth_yoy_pct": 15.0,
-        "price": 122.85,
+        "price": 123.06,
         "week52_low": 99.49,
         "week52_high": 132.36,
         "all_time_high": 277.08,
-        "sma20": 117.98,
-        "sma50": 116.82,
-        "sma100": 113.26,
+        "sma20": 118.65,
+        "sma50": 116.93,
+        "sma100": 113.39,
         "sma200": 114.15,
-        "rsi14": 60.8,
+        "rsi14": 61.2,
         "volume_trend_pct": 67.6,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "VAML",
@@ -7722,20 +7740,20 @@
         "debt_to_equity": 105.473,
         "revenue_growth_yoy_pct": 41.8,
         "earnings_growth_yoy_pct": 117.6,
-        "price": 356.45,
+        "price": 360.1,
         "week52_low": 344.35,
         "week52_high": 495.9,
         "all_time_high": 495.9,
-        "sma20": 369.33,
-        "sma50": 407.27,
+        "sma20": 367.2,
+        "sma50": 405.75,
         "sma100": null,
         "sma200": null,
-        "rsi14": 38.7,
+        "rsi14": 40.9,
         "volume_trend_pct": null,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "ABB",
@@ -7760,7 +7778,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "CHOLAFIN",
@@ -7785,7 +7803,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "BHEL",
@@ -7797,20 +7815,20 @@
         "debt_to_equity": 22.496,
         "revenue_growth_yoy_pct": 23.8,
         "earnings_growth_yoy_pct": 118.5,
-        "price": 387.6,
-        "week52_low": 230.94,
+        "price": 394.95,
+        "week52_low": 235.0,
         "week52_high": 464.0,
         "all_time_high": 464.0,
-        "sma20": 422.1,
-        "sma50": 422.89,
-        "sma100": 413.93,
-        "sma200": 359.27,
-        "rsi14": 37.8,
+        "sma20": 420.8,
+        "sma50": 422.39,
+        "sma100": 413.91,
+        "sma200": 359.89,
+        "rsi14": 41.5,
         "volume_trend_pct": -9.7,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "TATACAP",
@@ -7822,20 +7840,20 @@
         "debt_to_equity": 518.106,
         "revenue_growth_yoy_pct": 34.4,
         "earnings_growth_yoy_pct": 43.2,
-        "price": 319.9,
+        "price": 325.3,
         "week52_low": 297.8,
         "week52_high": 382.7,
         "all_time_high": 382.7,
-        "sma20": 316.27,
-        "sma50": 340.74,
-        "sma100": 347.6,
-        "sma200": 338.3,
-        "rsi14": 48.0,
+        "sma20": 316.57,
+        "sma50": 339.93,
+        "sma100": 347.62,
+        "sma200": 338.15,
+        "rsi14": 51.5,
         "volume_trend_pct": 51.4,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "ICICIAMC",
@@ -7860,7 +7878,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "VBL",
@@ -7872,20 +7890,20 @@
         "debt_to_equity": 15.869,
         "revenue_growth_yoy_pct": 34.9,
         "earnings_growth_yoy_pct": 11.9,
-        "price": 392.0,
+        "price": 397.15,
         "week52_low": 382.2,
         "week52_high": 544.05,
         "all_time_high": 674.12,
-        "sma20": 422.79,
-        "sma50": 421.29,
-        "sma100": 450.02,
-        "sma200": 459.31,
-        "rsi14": 37.8,
+        "sma20": 421.38,
+        "sma50": 420.59,
+        "sma100": 448.69,
+        "sma200": 458.79,
+        "rsi14": 40.5,
         "volume_trend_pct": -6.6,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "IDEA",
@@ -7897,16 +7915,16 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 6.1,
         "earnings_growth_yoy_pct": null,
-        "price": 11.83,
+        "price": 12.25,
         "week52_low": 8.53,
         "week52_high": 15.6,
         "all_time_high": 122.25,
-        "sma20": 12.38,
-        "sma50": 13.6,
-        "sma100": 13.71,
+        "sma20": 12.36,
+        "sma50": 13.57,
+        "sma100": 13.69,
         "sma200": 12.31,
-        "rsi14": 38.6,
-        "volume_trend_pct": -5.0,
+        "rsi14": 45.1,
+        "volume_trend_pct": -4.9,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
@@ -7918,24 +7936,24 @@
         "name": "CG Power and Industrial Solutions Ltd.",
         "sector": "Capital Goods",
         "market_cap": 1292046172160,
-        "pe_ratio": 94.04816,
+        "pe_ratio": 92.24971,
         "debt_to_equity": 1.885,
         "revenue_growth_yoy_pct": 30.1,
         "earnings_growth_yoy_pct": 43.4,
-        "price": 804.0,
+        "price": 820.1,
         "week52_low": 530.65,
         "week52_high": 976.5,
         "all_time_high": 976.5,
-        "sma20": 848.75,
-        "sma50": 870.87,
-        "sma100": 889.02,
-        "sma200": 811.02,
-        "rsi14": 37.9,
+        "sma20": 845.81,
+        "sma50": 870.01,
+        "sma100": 888.1,
+        "sma200": 812.05,
+        "rsi14": 42.8,
         "volume_trend_pct": -9.3,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "BPCL",
@@ -7947,15 +7965,15 @@
         "debt_to_equity": 62.165,
         "revenue_growth_yoy_pct": 42.1,
         "earnings_growth_yoy_pct": -21.5,
-        "price": 284.9,
+        "price": 293.05,
         "week52_low": 271.3,
         "week52_high": 388.3,
         "all_time_high": 388.3,
-        "sma20": 290.78,
-        "sma50": 302.76,
-        "sma100": 307.3,
-        "sma200": 317.08,
-        "rsi14": 41.2,
+        "sma20": 290.4,
+        "sma50": 302.48,
+        "sma100": 307.34,
+        "sma200": 316.77,
+        "rsi14": 49.0,
         "volume_trend_pct": -12.0,
         "trend": "Downtrend",
         "buying_range": false,
@@ -7972,15 +7990,15 @@
         "debt_to_equity": 42.471,
         "revenue_growth_yoy_pct": 33.4,
         "earnings_growth_yoy_pct": 126.0,
-        "price": 2405.5,
-        "week52_low": 926.4,
+        "price": 2348.0,
+        "week52_low": 940.15,
         "week52_high": 2405.5,
         "all_time_high": 2405.5,
-        "sma20": 2071.15,
-        "sma50": 1981.86,
-        "sma100": 1790.36,
-        "sma200": 1449.79,
-        "rsi14": 78.7,
+        "sma20": 2089.35,
+        "sma50": 1992.79,
+        "sma100": 1799.59,
+        "sma200": 1456.02,
+        "rsi14": 71.8,
         "volume_trend_pct": 11.9,
         "trend": "Uptrend",
         "buying_range": false,
@@ -7997,22 +8015,22 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 19.9,
         "earnings_growth_yoy_pct": 31.2,
-        "price": 238.6,
+        "price": 245.16,
         "week52_low": 227.5,
         "week52_high": 324.45,
         "all_time_high": 324.45,
-        "sma20": 234.12,
+        "sma20": 234.84,
         "sma50": 236.05,
-        "sma100": 246.32,
-        "sma200": 264.53,
-        "rsi14": 54.6,
+        "sma100": 246.03,
+        "sma200": 264.25,
+        "rsi14": 61.2,
         "volume_trend_pct": -5.6,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA"
+          "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "CUMMINSIND",
@@ -8024,20 +8042,20 @@
         "debt_to_equity": 0.431,
         "revenue_growth_yoy_pct": 17.9,
         "earnings_growth_yoy_pct": 0.9,
-        "price": 4452.6,
+        "price": 4533.0,
         "week52_low": 3928.3,
         "week52_high": 6027.5,
         "all_time_high": 6027.5,
-        "sma20": 4656.27,
-        "sma50": 4896.93,
-        "sma100": 5225.93,
-        "sma200": 5019.56,
-        "rsi14": 37.2,
+        "sma20": 4639.92,
+        "sma50": 4883.19,
+        "sma100": 5215.01,
+        "sma200": 5021.63,
+        "rsi14": 42.1,
         "volume_trend_pct": 12.3,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "LTM",
@@ -8053,10 +8071,10 @@
         "week52_low": 3538.0,
         "week52_high": 6407.0,
         "all_time_high": 7561.75,
-        "sma20": 4126.29,
-        "sma50": 4268.53,
-        "sma100": 4197.77,
-        "sma200": 4469.89,
+        "sma20": 4137.61,
+        "sma50": 4261.91,
+        "sma100": 4200.11,
+        "sma200": 4460.96,
         "rsi14": 53.4,
         "volume_trend_pct": 29.6,
         "trend": "Downtrend",
@@ -8090,7 +8108,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "ZYDUSLIFE",
@@ -8102,15 +8120,15 @@
         "debt_to_equity": 42.304,
         "revenue_growth_yoy_pct": 22.0,
         "earnings_growth_yoy_pct": -35.9,
-        "price": 1245.5,
+        "price": 1240.5,
         "week52_low": 860.6,
         "week52_high": 1245.5,
         "all_time_high": 1300.9,
-        "sma20": 1145.79,
-        "sma50": 1147.52,
-        "sma100": 1134.96,
-        "sma200": 1032.77,
-        "rsi14": 70.9,
+        "sma20": 1150.53,
+        "sma50": 1150.24,
+        "sma100": 1136.31,
+        "sma200": 1034.44,
+        "rsi14": 69.3,
         "volume_trend_pct": -4.4,
         "trend": "Uptrend",
         "buying_range": false,
@@ -8123,27 +8141,27 @@
         "name": "Billionbrains Garage Ventures Ltd.",
         "sector": "Financial Services",
         "market_cap": 1220454121472,
-        "pe_ratio": 45.911213,
+        "pe_ratio": 44.760822,
         "debt_to_equity": 3.028,
         "revenue_growth_yoy_pct": 65.2,
         "earnings_growth_yoy_pct": 85.7,
-        "price": 191.52,
+        "price": 196.31,
         "week52_low": 131.33,
         "week52_high": 221.56,
         "all_time_high": 221.56,
-        "sma20": 191.1,
-        "sma50": 191.87,
-        "sma100": 195.42,
-        "sma200": 186.8,
-        "rsi14": 51.1,
+        "sma20": 191.91,
+        "sma50": 191.92,
+        "sma100": 195.43,
+        "sma200": 186.98,
+        "rsi14": 56.7,
         "volume_trend_pct": -54.5,
-        "trend": "Mixed",
+        "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "APOLLOHOSP",
@@ -8196,7 +8214,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "POLYCAB",
@@ -8221,7 +8239,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "INDHOTEL",
@@ -8258,15 +8276,15 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 14.4,
         "earnings_growth_yoy_pct": 14.0,
-        "price": 865.5,
+        "price": 865.25,
         "week52_low": 772.4,
         "week52_high": 991.55,
         "all_time_high": 991.55,
-        "sma20": 836.22,
-        "sma50": 848.4,
-        "sma100": 846.11,
-        "sma200": 864.84,
-        "rsi14": 58.6,
+        "sma20": 839.82,
+        "sma50": 848.24,
+        "sma100": 846.01,
+        "sma200": 865.02,
+        "rsi14": 58.5,
         "volume_trend_pct": -38.9,
         "trend": "Mixed",
         "buying_range": true,
@@ -8274,7 +8292,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "GAIL",
@@ -8286,20 +8304,19 @@
         "debt_to_equity": 24.939,
         "revenue_growth_yoy_pct": 32.6,
         "earnings_growth_yoy_pct": 139.3,
-        "price": 167.91,
+        "price": 177.0,
         "week52_low": 135.4,
         "week52_high": 185.3,
         "all_time_high": 240.97,
-        "sma20": 167.71,
-        "sma50": 170.97,
-        "sma100": 172.28,
-        "sma200": 165.94,
-        "rsi14": 48.8,
+        "sma20": 168.0,
+        "sma50": 171.06,
+        "sma100": 172.37,
+        "sma200": 166.01,
+        "rsi14": 63.1,
         "volume_trend_pct": -11.2,
-        "trend": "Mixed",
+        "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA",
           "100DMA"
         ],
         "sector_pe_avg": 23.7
@@ -8354,7 +8371,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "TATAPOWER",
@@ -8366,19 +8383,21 @@
         "debt_to_equity": 168.051,
         "revenue_growth_yoy_pct": 5.6,
         "earnings_growth_yoy_pct": 10.9,
-        "price": 345.05,
+        "price": 355.9,
         "week52_low": 335.0,
         "week52_high": 461.8,
         "all_time_high": 485.5,
-        "sma20": 346.48,
-        "sma50": 357.59,
-        "sma100": 370.8,
-        "sma200": 382.76,
-        "rsi14": 44.8,
+        "sma20": 346.77,
+        "sma50": 357.13,
+        "sma100": 370.37,
+        "sma200": 382.67,
+        "rsi14": 54.4,
         "volume_trend_pct": -3.2,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
         "sector_pe_avg": 43.9
       },
       {
@@ -8391,22 +8410,22 @@
         "debt_to_equity": 15.919,
         "revenue_growth_yoy_pct": 18.5,
         "earnings_growth_yoy_pct": 12.5,
-        "price": 524.9,
+        "price": 522.25,
         "week52_low": 513.6,
         "week52_high": 787.55,
         "all_time_high": 814.3,
-        "sma20": 537.45,
-        "sma50": 538.66,
-        "sma100": 549.76,
-        "sma200": 601.37,
-        "rsi14": 44.3,
+        "sma20": 536.85,
+        "sma50": 538.38,
+        "sma100": 549.38,
+        "sma200": 600.19,
+        "rsi14": 42.9,
         "volume_trend_pct": -53.6,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "LGEINDIA",
@@ -8418,23 +8437,22 @@
         "debt_to_equity": 5.99,
         "revenue_growth_yoy_pct": 15.5,
         "earnings_growth_yoy_pct": 27.2,
-        "price": 1661.4,
+        "price": 1682.0,
         "week52_low": 1318.8,
         "week52_high": 1780.3,
         "all_time_high": 1780.3,
-        "sma20": 1707.89,
-        "sma50": 1685.87,
-        "sma100": 1625.17,
-        "sma200": 1567.1,
-        "rsi14": 45.4,
+        "sma20": 1705.9,
+        "sma50": 1686.61,
+        "sma100": 1626.58,
+        "sma200": 1568.36,
+        "rsi14": 49.0,
         "volume_trend_pct": -59.7,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA",
-          "100DMA"
+          "50DMA"
         ],
-        "sector_pe_avg": 48.7
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "JINDALSTEL",
@@ -8446,22 +8464,23 @@
         "debt_to_equity": 41.616,
         "revenue_growth_yoy_pct": 42.7,
         "earnings_growth_yoy_pct": 21.2,
-        "price": 1061.2,
+        "price": 1102.0,
         "week52_low": 986.0,
         "week52_high": 1288.8,
         "all_time_high": 1288.8,
-        "sma20": 1045.59,
-        "sma50": 1104.63,
-        "sma100": 1093.41,
-        "sma200": 1137.53,
-        "rsi14": 48.8,
+        "sma20": 1045.67,
+        "sma50": 1104.37,
+        "sma100": 1092.93,
+        "sma200": 1137.98,
+        "rsi14": 58.4,
         "volume_trend_pct": 14.6,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
+          "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "CIPLA",
@@ -8473,15 +8492,15 @@
         "debt_to_equity": 1.969,
         "revenue_growth_yoy_pct": -1.1,
         "earnings_growth_yoy_pct": -35.0,
-        "price": 1378.9,
+        "price": 1387.0,
         "week52_low": 1192.4,
-        "week52_high": 1584.4,
+        "week52_high": 1584.0,
         "all_time_high": 1680.5,
-        "sma20": 1333.89,
-        "sma50": 1370.46,
-        "sma100": 1401.26,
-        "sma200": 1365.03,
-        "rsi14": 59.2,
+        "sma20": 1336.04,
+        "sma50": 1369.76,
+        "sma100": 1401.37,
+        "sma200": 1364.66,
+        "rsi14": 61.3,
         "volume_trend_pct": 31.4,
         "trend": "Uptrend",
         "buying_range": true,
@@ -8501,15 +8520,15 @@
         "debt_to_equity": 18.565,
         "revenue_growth_yoy_pct": -1.5,
         "earnings_growth_yoy_pct": -35.7,
-        "price": 1352.0,
+        "price": 1342.0,
         "week52_low": 1135.6,
         "week52_high": 1375.7,
         "all_time_high": 1412.49,
-        "sma20": 1247.2,
-        "sma50": 1205.97,
-        "sma100": 1224.13,
-        "sma200": 1245.32,
-        "rsi14": 75.3,
+        "sma20": 1253.99,
+        "sma50": 1209.41,
+        "sma100": 1224.87,
+        "sma200": 1246.0,
+        "rsi14": 71.8,
         "volume_trend_pct": 34.8,
         "trend": "Mixed",
         "buying_range": false,
@@ -8526,20 +8545,20 @@
         "debt_to_equity": 26.875,
         "revenue_growth_yoy_pct": 8.2,
         "earnings_growth_yoy_pct": 13.6,
-        "price": 4640.0,
+        "price": 4635.0,
         "week52_low": 4537.9,
         "week52_high": 6185.0,
         "all_time_high": 6446.05,
-        "sma20": 4722.7,
-        "sma50": 4952.59,
-        "sma100": 5160.44,
-        "sma200": 5436.19,
-        "rsi14": 40.1,
+        "sma20": 4715.55,
+        "sma50": 4936.23,
+        "sma100": 5155.72,
+        "sma200": 5429.2,
+        "rsi14": 39.8,
         "volume_trend_pct": -15.6,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "CANBK",
@@ -8551,20 +8570,22 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": -13.0,
         "earnings_growth_yoy_pct": 10.8,
-        "price": 117.54,
+        "price": 119.14,
         "week52_low": 116.16,
         "week52_high": 158.93,
         "all_time_high": 239.4,
-        "sma20": 118.97,
-        "sma50": 122.76,
-        "sma100": 125.77,
-        "sma200": 133.44,
-        "rsi14": 44.5,
+        "sma20": 119.01,
+        "sma50": 122.56,
+        "sma100": 125.58,
+        "sma200": 133.28,
+        "rsi14": 48.1,
         "volume_trend_pct": -4.6,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "GVT&D",
@@ -8576,20 +8597,22 @@
         "debt_to_equity": 0.835,
         "revenue_growth_yoy_pct": 31.8,
         "earnings_growth_yoy_pct": 43.9,
-        "price": 4020.0,
+        "price": 4175.5,
         "week52_low": 2557.8,
         "week52_high": 5533.5,
         "all_time_high": 5533.5,
-        "sma20": 4055.98,
-        "sma50": 4217.58,
-        "sma100": 4413.85,
-        "sma200": 4147.48,
-        "rsi14": 46.8,
+        "sma20": 4052.1,
+        "sma50": 4219.09,
+        "sma100": 4406.3,
+        "sma200": 4153.34,
+        "rsi14": 54.1,
         "volume_trend_pct": -10.2,
         "trend": "Mixed",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "PAYTM",
@@ -8614,7 +8637,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "PFC",
@@ -8622,24 +8645,24 @@
         "name": "Power Finance Corporation Ltd.",
         "sector": "Financial Services",
         "market_cap": 1051082358784,
-        "pe_ratio": 4.035221,
+        "pe_ratio": 3.9733033,
         "debt_to_equity": 536.837,
         "revenue_growth_yoy_pct": 0.8,
         "earnings_growth_yoy_pct": 2.1,
-        "price": 313.6,
+        "price": 318.5,
         "week52_low": 313.6,
         "week52_high": 481.4,
         "all_time_high": 570.6,
-        "sma20": 326.39,
-        "sma50": 339.99,
-        "sma100": 377.21,
-        "sma200": 397.23,
-        "rsi14": 34.3,
+        "sma20": 326.42,
+        "sma50": 338.87,
+        "sma100": 376.04,
+        "sma200": 397.0,
+        "rsi14": 39.8,
         "volume_trend_pct": -15.8,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "ENRIN",
@@ -8664,7 +8687,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "HEROMOTOCO",
@@ -8692,7 +8715,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "ABCAPITAL",
@@ -8704,20 +8727,22 @@
         "debt_to_equity": 423.606,
         "revenue_growth_yoy_pct": 36.6,
         "earnings_growth_yoy_pct": 43.5,
-        "price": 369.45,
+        "price": 378.3,
         "week52_low": 292.25,
         "week52_high": 424.7,
         "all_time_high": 424.7,
-        "sma20": 369.66,
-        "sma50": 386.96,
-        "sma100": 390.61,
-        "sma200": 366.14,
-        "rsi14": 47.6,
+        "sma20": 369.82,
+        "sma50": 386.6,
+        "sma100": 390.88,
+        "sma200": 366.24,
+        "rsi14": 53.4,
         "volume_trend_pct": -3.5,
         "trend": "Mixed",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "MARICO",
@@ -8729,22 +8754,22 @@
         "debt_to_equity": 12.394,
         "revenue_growth_yoy_pct": 21.4,
         "earnings_growth_yoy_pct": 24.7,
-        "price": 800.0,
+        "price": 798.55,
         "week52_low": 710.65,
         "week52_high": 885.35,
         "all_time_high": 885.35,
-        "sma20": 783.18,
-        "sma50": 806.58,
-        "sma100": 825.98,
-        "sma200": 801.25,
-        "rsi14": 54.3,
+        "sma20": 784.04,
+        "sma50": 805.55,
+        "sma100": 825.83,
+        "sma200": 801.45,
+        "rsi14": 53.6,
         "volume_trend_pct": -3.4,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "LLOYDSME",
@@ -8756,14 +8781,14 @@
         "debt_to_equity": 145.214,
         "revenue_growth_yoy_pct": 208.6,
         "earnings_growth_yoy_pct": 169.3,
-        "price": 1825.3,
+        "price": 1825.1,
         "week52_low": 1098.2,
         "week52_high": 2101.2,
         "all_time_high": 2101.2,
-        "sma20": 1810.05,
-        "sma50": 1823.47,
-        "sma100": 1845.15,
-        "sma200": 1631.51,
+        "sma20": 1812.46,
+        "sma50": 1821.59,
+        "sma100": 1846.23,
+        "sma200": 1634.2,
         "rsi14": 51.4,
         "volume_trend_pct": -27.3,
         "trend": "Uptrend",
@@ -8772,7 +8797,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "MEESHO",
@@ -8784,15 +8809,15 @@
         "debt_to_equity": 1.161,
         "revenue_growth_yoy_pct": 34.4,
         "earnings_growth_yoy_pct": null,
-        "price": 223.01,
+        "price": 222.21,
         "week52_low": 134.77,
         "week52_high": 240.67,
         "all_time_high": 240.67,
-        "sma20": 226.53,
-        "sma50": 219.07,
-        "sma100": 201.93,
-        "sma200": 183.96,
-        "rsi14": 50.1,
+        "sma20": 226.71,
+        "sma50": 219.57,
+        "sma100": 202.49,
+        "sma200": 184.24,
+        "rsi14": 49.5,
         "volume_trend_pct": -49.6,
         "trend": "Uptrend",
         "buying_range": true,
@@ -8851,7 +8876,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "TATACONSUM",
@@ -8863,23 +8888,22 @@
         "debt_to_equity": 10.772,
         "revenue_growth_yoy_pct": 14.0,
         "earnings_growth_yoy_pct": 15.9,
-        "price": 1025.9,
+        "price": 1028.9,
         "week52_low": 936.5,
         "week52_high": 1271.0,
         "all_time_high": 1271.0,
-        "sma20": 974.18,
-        "sma50": 997.23,
-        "sma100": 1047.73,
-        "sma200": 1094.43,
-        "rsi14": 61.3,
+        "sma20": 977.78,
+        "sma50": 996.44,
+        "sma100": 1046.96,
+        "sma200": 1093.59,
+        "rsi14": 61.9,
         "volume_trend_pct": 48.2,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "NYKAA",
@@ -8891,15 +8915,15 @@
         "debt_to_equity": 82.829,
         "revenue_growth_yoy_pct": 29.1,
         "earnings_growth_yoy_pct": 250.0,
-        "price": 349.35,
+        "price": 353.65,
         "week52_low": 234.7,
-        "week52_high": 352.9,
+        "week52_high": 353.65,
         "all_time_high": 415.52,
-        "sma20": 336.93,
-        "sma50": 335.47,
-        "sma100": 325.05,
-        "sma200": 291.78,
-        "rsi14": 58.4,
+        "sma20": 338.37,
+        "sma50": 336.0,
+        "sma100": 325.91,
+        "sma200": 292.27,
+        "rsi14": 60.7,
         "volume_trend_pct": -28.4,
         "trend": "Uptrend",
         "buying_range": false,
@@ -8916,17 +8940,17 @@
         "debt_to_equity": 55.704,
         "revenue_growth_yoy_pct": 4.0,
         "earnings_growth_yoy_pct": -2.4,
-        "price": 378.3,
+        "price": 383.0,
         "week52_low": 360.0,
         "week52_high": 477.75,
         "all_time_high": 482.3,
-        "sma20": 380.67,
-        "sma50": 378.38,
-        "sma100": 386.97,
-        "sma200": 409.92,
-        "rsi14": 48.8,
+        "sma20": 381.01,
+        "sma50": 378.59,
+        "sma100": 386.61,
+        "sma200": 409.68,
+        "rsi14": 51.9,
         "volume_trend_pct": 8.0,
-        "trend": "Downtrend",
+        "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA",
@@ -8944,20 +8968,20 @@
         "debt_to_equity": 393.56,
         "revenue_growth_yoy_pct": 35.3,
         "earnings_growth_yoy_pct": 38.8,
-        "price": 2408.6,
+        "price": 2514.7,
         "week52_low": 2373.0,
         "week52_high": 4091.7,
         "all_time_high": 4091.7,
-        "sma20": 2546.11,
-        "sma50": 2759.94,
-        "sma100": 2886.0,
-        "sma200": 3193.11,
-        "rsi14": 34.4,
+        "sma20": 2536.99,
+        "sma50": 2753.05,
+        "sma100": 2881.23,
+        "sma200": 3186.41,
+        "rsi14": 44.8,
         "volume_trend_pct": -25.3,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "TMPV",
@@ -8969,20 +8993,20 @@
         "debt_to_equity": 70.364,
         "revenue_growth_yoy_pct": -8.2,
         "earnings_growth_yoy_pct": -80.3,
-        "price": 265.4,
+        "price": 272.4,
         "week52_low": 261.2,
         "week52_high": 417.0,
         "all_time_high": 1161.85,
-        "sma20": 276.3,
-        "sma50": 293.85,
-        "sma100": 320.4,
-        "sma200": 336.9,
-        "rsi14": 33.9,
+        "sma20": 275.95,
+        "sma50": 292.87,
+        "sma100": 319.24,
+        "sma200": 336.46,
+        "rsi14": 42.7,
         "volume_trend_pct": -27.5,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "LODHA",
@@ -8994,15 +9018,15 @@
         "debt_to_equity": 41.126,
         "revenue_growth_yoy_pct": 17.6,
         "earnings_growth_yoy_pct": 28.6,
-        "price": 1037.0,
+        "price": 1002.8,
         "week52_low": 677.0,
         "week52_high": 1316.35,
         "all_time_high": 1594.8,
-        "sma20": 1052.47,
-        "sma50": 1130.15,
-        "sma100": 1118.29,
-        "sma200": 1019.74,
-        "rsi14": 44.5,
+        "sma20": 1047.34,
+        "sma50": 1126.01,
+        "sma100": 1119.44,
+        "sma200": 1019.3,
+        "rsi14": 39.3,
         "volume_trend_pct": -42.8,
         "trend": "Mixed",
         "buying_range": false,
@@ -9019,15 +9043,15 @@
         "debt_to_equity": 6.696,
         "revenue_growth_yoy_pct": 30.3,
         "earnings_growth_yoy_pct": -26.3,
-        "price": 6048.0,
+        "price": 6051.0,
         "week52_low": 4298.5,
         "week52_high": 6563.5,
         "all_time_high": 6674.2,
-        "sma20": 5744.6,
-        "sma50": 5608.42,
-        "sma100": 5354.34,
-        "sma200": 5324.84,
-        "rsi14": 65.3,
+        "sma20": 5778.8,
+        "sma50": 5619.24,
+        "sma100": 5364.67,
+        "sma200": 5322.88,
+        "rsi14": 65.4,
         "volume_trend_pct": 20.9,
         "trend": "Uptrend",
         "buying_range": false,
@@ -9044,20 +9068,20 @@
         "debt_to_equity": 715.064,
         "revenue_growth_yoy_pct": 10.1,
         "earnings_growth_yoy_pct": 10.3,
-        "price": 73.37,
+        "price": 75.65,
         "week52_low": 73.37,
         "week52_high": 133.64,
         "all_time_high": 217.43,
-        "sma20": 76.56,
-        "sma50": 79.92,
-        "sma100": 85.4,
-        "sma200": 95.17,
-        "rsi14": 35.4,
+        "sma20": 76.49,
+        "sma50": 79.73,
+        "sma100": 85.2,
+        "sma200": 94.93,
+        "rsi14": 44.5,
         "volume_trend_pct": -13.2,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "AUROPHARMA",
@@ -9096,20 +9120,20 @@
         "debt_to_equity": 134.123,
         "revenue_growth_yoy_pct": -34.2,
         "earnings_growth_yoy_pct": 103.9,
-        "price": 237.9,
+        "price": 246.0,
         "week52_low": 225.6,
         "week52_high": 787.5,
         "all_time_high": 787.5,
-        "sma20": 245.72,
-        "sma50": 259.73,
-        "sma100": 268.58,
-        "sma200": 434.61,
-        "rsi14": 41.9,
+        "sma20": 245.42,
+        "sma50": 259.4,
+        "sma100": 267.98,
+        "sma200": 432.82,
+        "rsi14": 49.2,
         "volume_trend_pct": -26.4,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "UNITDSPR",
@@ -9134,7 +9158,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "GMRAIRPORT",
@@ -9146,15 +9170,15 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 11.6,
         "earnings_growth_yoy_pct": null,
-        "price": 86.92,
+        "price": 88.65,
         "week52_low": 84.75,
         "week52_high": 114.98,
         "all_time_high": 116.28,
-        "sma20": 89.75,
-        "sma50": 94.2,
-        "sma100": 101.14,
-        "sma200": 98.63,
-        "rsi14": 38.3,
+        "sma20": 89.52,
+        "sma50": 93.92,
+        "sma100": 101.0,
+        "sma200": 98.56,
+        "rsi14": 43.8,
         "volume_trend_pct": -40.4,
         "trend": "Downtrend",
         "buying_range": false,
@@ -9171,15 +9195,15 @@
         "debt_to_equity": 26.74,
         "revenue_growth_yoy_pct": 54.8,
         "earnings_growth_yoy_pct": 19.2,
-        "price": 2045.0,
+        "price": 2099.0,
         "week52_low": 1073.9,
-        "week52_high": 2045.0,
-        "all_time_high": 2045.0,
-        "sma20": 1913.31,
-        "sma50": 1881.98,
-        "sma100": 1724.96,
-        "sma200": 1540.27,
-        "rsi14": 66.7,
+        "week52_high": 2099.0,
+        "all_time_high": 2099.0,
+        "sma20": 1926.96,
+        "sma50": 1887.69,
+        "sma100": 1731.83,
+        "sma200": 1542.53,
+        "rsi14": 70.6,
         "volume_trend_pct": 12.1,
         "trend": "Uptrend",
         "buying_range": false,
@@ -9196,17 +9220,17 @@
         "debt_to_equity": 207.431,
         "revenue_growth_yoy_pct": 23.0,
         "earnings_growth_yoy_pct": 39.1,
-        "price": 500.35,
+        "price": 505.5,
         "week52_low": 440.05,
         "week52_high": 602.05,
         "all_time_high": 792.05,
-        "sma20": 477.41,
-        "sma50": 506.2,
-        "sma100": 533.06,
-        "sma200": 522.62,
-        "rsi14": 54.6,
+        "sma20": 478.44,
+        "sma50": 505.43,
+        "sma100": 532.41,
+        "sma200": 522.65,
+        "rsi14": 56.2,
         "volume_trend_pct": 45.3,
-        "trend": "Downtrend",
+        "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
@@ -9223,15 +9247,15 @@
         "debt_to_equity": 29.388,
         "revenue_growth_yoy_pct": 32.0,
         "earnings_growth_yoy_pct": 16.0,
-        "price": 2011.0,
+        "price": 1996.5,
         "week52_low": 1918.7,
         "week52_high": 2514.8,
         "all_time_high": 2514.8,
-        "sma20": 1970.08,
-        "sma50": 2062.36,
-        "sma100": 2220.78,
-        "sma200": 2243.52,
-        "rsi14": 51.4,
+        "sma20": 1968.35,
+        "sma50": 2057.79,
+        "sma100": 2218.11,
+        "sma200": 2242.54,
+        "rsi14": 48.8,
         "volume_trend_pct": -24.7,
         "trend": "Downtrend",
         "buying_range": true,
@@ -9250,20 +9274,20 @@
         "debt_to_equity": 1.388,
         "revenue_growth_yoy_pct": 0.2,
         "earnings_growth_yoy_pct": -89.1,
-        "price": 348.05,
+        "price": 360.2,
         "week52_low": 341.0,
         "week52_high": 577.2,
         "all_time_high": 695.0,
-        "sma20": 355.6,
-        "sma50": 379.87,
-        "sma100": 403.99,
-        "sma200": 438.29,
-        "rsi14": 39.5,
+        "sma20": 355.5,
+        "sma50": 378.92,
+        "sma100": 403.44,
+        "sma200": 437.35,
+        "rsi14": 47.9,
         "volume_trend_pct": 132.9,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 40.1
+        "sector_pe_avg": 39.8
       },
       {
         "symbol": "ASHOKLEY",
@@ -9275,20 +9299,20 @@
         "debt_to_equity": 344.737,
         "revenue_growth_yoy_pct": 11.6,
         "earnings_growth_yoy_pct": 1.0,
-        "price": 144.82,
-        "week52_low": 136.35,
+        "price": 149.2,
+        "week52_low": 138.58,
         "week52_high": 211.92,
         "all_time_high": 211.92,
-        "sma20": 146.69,
-        "sma50": 158.43,
-        "sma100": 159.63,
-        "sma200": 168.8,
-        "rsi14": 39.0,
+        "sma20": 146.62,
+        "sma50": 157.95,
+        "sma100": 159.68,
+        "sma200": 168.62,
+        "rsi14": 49.1,
         "volume_trend_pct": -29.3,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "MAXHEALTH",
@@ -9300,15 +9324,15 @@
         "debt_to_equity": 32.905,
         "revenue_growth_yoy_pct": 20.3,
         "earnings_growth_yoy_pct": -15.5,
-        "price": 860.0,
+        "price": 884.75,
         "week52_low": 815.0,
         "week52_high": 1189.5,
         "all_time_high": 1301.4,
-        "sma20": 861.68,
-        "sma50": 953.54,
-        "sma100": 1016.48,
-        "sma200": 1014.06,
-        "rsi14": 39.5,
+        "sma20": 858.87,
+        "sma50": 951.3,
+        "sma100": 1015.3,
+        "sma200": 1013.33,
+        "rsi14": 48.2,
         "volume_trend_pct": 96.3,
         "trend": "Downtrend",
         "buying_range": false,
@@ -9325,20 +9349,20 @@
         "debt_to_equity": 76.475,
         "revenue_growth_yoy_pct": 18.7,
         "earnings_growth_yoy_pct": null,
-        "price": 1720.0,
+        "price": 1753.4,
         "week52_low": 1283.9,
         "week52_high": 2265.2,
         "all_time_high": 2265.2,
-        "sma20": 1799.28,
-        "sma50": 1915.73,
-        "sma100": 2016.23,
-        "sma200": 1884.05,
-        "rsi14": 33.4,
+        "sma20": 1793.2,
+        "sma50": 1909.42,
+        "sma100": 2014.51,
+        "sma200": 1885.4,
+        "rsi14": 39.5,
         "volume_trend_pct": -3.1,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "SHREECEM",
@@ -9365,7 +9389,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 40.1
+        "sector_pe_avg": 39.8
       },
       {
         "symbol": "OFSS",
@@ -9377,15 +9401,15 @@
         "debt_to_equity": 0.468,
         "revenue_growth_yoy_pct": 6.6,
         "earnings_growth_yoy_pct": 28.5,
-        "price": 9995.0,
+        "price": 9744.0,
         "week52_low": 6302.0,
         "week52_high": 12540.0,
         "all_time_high": 12945.45,
-        "sma20": 10233.6,
-        "sma50": 11040.68,
-        "sma100": 10994.26,
-        "sma200": 9459.99,
-        "rsi14": 39.4,
+        "sma20": 10199.8,
+        "sma50": 11000.08,
+        "sma100": 10995.31,
+        "sma200": 9470.74,
+        "rsi14": 34.8,
         "volume_trend_pct": -24.5,
         "trend": "Mixed",
         "buying_range": false,
@@ -9402,20 +9426,20 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": -7.4,
         "earnings_growth_yoy_pct": -31.3,
-        "price": 80.32,
+        "price": 78.94,
         "week52_low": 61.5,
         "week52_high": 116.01,
         "all_time_high": 198.55,
-        "sma20": 82.36,
-        "sma50": 84.41,
-        "sma100": 83.88,
-        "sma200": 85.66,
-        "rsi14": 46.2,
+        "sma20": 81.98,
+        "sma50": 84.37,
+        "sma100": 83.92,
+        "sma200": 85.53,
+        "rsi14": 43.3,
         "volume_trend_pct": -60.8,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "GODREJCP",
@@ -9427,20 +9451,20 @@
         "debt_to_equity": 39.999,
         "revenue_growth_yoy_pct": 15.4,
         "earnings_growth_yoy_pct": 13.8,
-        "price": 818.0,
+        "price": 821.5,
         "week52_low": 818.0,
         "week52_high": 1254.0,
         "all_time_high": 1516.7,
-        "sma20": 850.93,
-        "sma50": 873.28,
-        "sma100": 956.39,
-        "sma200": 1032.47,
-        "rsi14": 35.0,
+        "sma20": 850.0,
+        "sma50": 871.11,
+        "sma100": 954.47,
+        "sma200": 1030.36,
+        "rsi14": 36.8,
         "volume_trend_pct": 34.6,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "BHARTIHEXA",
@@ -9477,23 +9501,23 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 36.4,
         "earnings_growth_yoy_pct": 45.5,
-        "price": 339.7,
-        "week52_low": 227.4,
+        "price": 337.5,
+        "week52_low": 234.04,
         "week52_high": 371.7,
         "all_time_high": 371.7,
-        "sma20": 335.09,
-        "sma50": 338.78,
-        "sma100": 338.82,
-        "sma200": 310.72,
-        "rsi14": 51.5,
+        "sma20": 336.05,
+        "sma50": 338.36,
+        "sma100": 339.04,
+        "sma200": 311.13,
+        "rsi14": 49.6,
         "volume_trend_pct": 38.5,
-        "trend": "Uptrend",
+        "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "MCX",
@@ -9501,26 +9525,26 @@
         "name": "Multi Commodity Exchange of India Ltd.",
         "sector": "Financial Services",
         "market_cap": 826916274176,
-        "pe_ratio": 67.85714,
+        "pe_ratio": 66.60517,
         "debt_to_equity": 0.113,
         "revenue_growth_yoy_pct": 85.3,
         "earnings_growth_yoy_pct": 103.4,
-        "price": 3188.8,
-        "week52_low": 1800.7,
+        "price": 3249.0,
+        "week52_low": 1820.3,
         "week52_high": 3441.7,
         "all_time_high": 3441.7,
-        "sma20": 3213.18,
-        "sma50": 3247.75,
-        "sma100": 3026.04,
-        "sma200": 2845.69,
-        "rsi14": 49.1,
+        "sma20": 3215.43,
+        "sma50": 3253.27,
+        "sma100": 3030.28,
+        "sma200": 2850.78,
+        "rsi14": 52.8,
         "volume_trend_pct": -48.4,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "NHPC",
@@ -9559,22 +9583,22 @@
         "debt_to_equity": 0.16,
         "revenue_growth_yoy_pct": 18.9,
         "earnings_growth_yoy_pct": 15.3,
-        "price": 1580.8,
+        "price": 1558.4,
         "week52_low": 1427.7,
         "week52_high": 2042.9,
         "all_time_high": 2275.2,
-        "sma20": 1626.23,
-        "sma50": 1570.45,
-        "sma100": 1643.38,
-        "sma200": 1737.63,
-        "rsi14": 46.2,
+        "sma20": 1626.0,
+        "sma50": 1569.3,
+        "sma100": 1641.19,
+        "sma200": 1735.88,
+        "rsi14": 42.4,
         "volume_trend_pct": -59.3,
-        "trend": "Mixed",
+        "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "NAUKRI",
@@ -9613,20 +9637,20 @@
         "debt_to_equity": 606.306,
         "revenue_growth_yoy_pct": -12.9,
         "earnings_growth_yoy_pct": -21.2,
-        "price": 285.6,
+        "price": 286.9,
         "week52_low": 285.6,
         "week52_high": 385.55,
         "all_time_high": 645.8,
-        "sma20": 298.55,
-        "sma50": 308.53,
-        "sma100": 333.11,
-        "sma200": 341.85,
-        "rsi14": 38.1,
+        "sma20": 298.51,
+        "sma50": 307.52,
+        "sma100": 332.45,
+        "sma200": 341.43,
+        "rsi14": 39.3,
         "volume_trend_pct": -15.3,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "DIXON",
@@ -9634,24 +9658,24 @@
         "name": "Dixon Technologies (India) Ltd.",
         "sector": "Consumer Durables",
         "market_cap": 753560453120,
-        "pe_ratio": 42.998257,
+        "pe_ratio": 38.394886,
         "debt_to_equity": 18.377,
         "revenue_growth_yoy_pct": 46.7,
         "earnings_growth_yoy_pct": -45.1,
-        "price": 11000.0,
+        "price": 12319.0,
         "week52_low": 9673.0,
         "week52_high": 15697.0,
         "all_time_high": 18940.15,
-        "sma20": 12149.65,
-        "sma50": 13228.32,
-        "sma100": 13237.43,
-        "sma200": 12072.7,
-        "rsi14": 25.8,
+        "sma20": 12130.6,
+        "sma50": 13185.46,
+        "sma100": 13244.51,
+        "sma200": 12074.36,
+        "rsi14": 50.6,
         "volume_trend_pct": 4.2,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.7
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "OIL",
@@ -9691,19 +9715,21 @@
         "debt_to_equity": 140.204,
         "revenue_growth_yoy_pct": 33.4,
         "earnings_growth_yoy_pct": -6.1,
-        "price": 340.55,
+        "price": 348.0,
         "week52_low": 319.15,
         "week52_high": 499.05,
         "all_time_high": 499.05,
-        "sma20": 341.16,
-        "sma50": 351.23,
-        "sma100": 371.98,
-        "sma200": 385.21,
-        "rsi14": 46.1,
-        "volume_trend_pct": -14.9,
+        "sma20": 341.31,
+        "sma50": 350.86,
+        "sma100": 371.64,
+        "sma200": 384.69,
+        "rsi14": 51.5,
+        "volume_trend_pct": -14.8,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
         "sector_pe_avg": 23.7
       },
       {
@@ -9716,15 +9742,15 @@
         "debt_to_equity": 44.645,
         "revenue_growth_yoy_pct": 17.0,
         "earnings_growth_yoy_pct": -21.5,
-        "price": 316.1,
+        "price": 316.45,
         "week52_low": 234.31,
         "week52_high": 367.6,
         "all_time_high": 367.6,
-        "sma20": 334.1,
-        "sma50": 338.73,
-        "sma100": 331.07,
-        "sma200": 297.61,
-        "rsi14": 38.4,
+        "sma20": 332.05,
+        "sma50": 338.46,
+        "sma100": 331.4,
+        "sma200": 297.82,
+        "rsi14": 38.8,
         "volume_trend_pct": -48.1,
         "trend": "Mixed",
         "buying_range": false,
@@ -9741,22 +9767,19 @@
         "debt_to_equity": 54.31,
         "revenue_growth_yoy_pct": 3.4,
         "earnings_growth_yoy_pct": 7.1,
-        "price": 1957.2,
+        "price": 2016.6,
         "week52_low": 1477.4,
         "week52_high": 2154.0,
         "all_time_high": 2154.0,
-        "sma20": 1889.42,
-        "sma50": 1906.02,
-        "sma100": 1931.72,
-        "sma200": 1826.0,
-        "rsi14": 57.5,
+        "sma20": 1893.75,
+        "sma50": 1907.97,
+        "sma100": 1934.35,
+        "sma200": 1826.37,
+        "rsi14": 63.7,
         "volume_trend_pct": -21.0,
         "trend": "Uptrend",
-        "buying_range": true,
-        "buying_range_basis": [
-          "50DMA",
-          "100DMA"
-        ],
+        "buying_range": false,
+        "buying_range_basis": [],
         "sector_pe_avg": 39.0
       },
       {
@@ -9769,15 +9792,15 @@
         "debt_to_equity": 35.123,
         "revenue_growth_yoy_pct": 34.7,
         "earnings_growth_yoy_pct": 31.1,
-        "price": 2335.5,
+        "price": 2409.0,
         "week52_low": 2305.0,
         "week52_high": 3111.7,
         "all_time_high": 3286.5,
-        "sma20": 2421.13,
-        "sma50": 2493.1,
-        "sma100": 2601.64,
-        "sma200": 2635.04,
-        "rsi14": 36.0,
+        "sma20": 2417.27,
+        "sma50": 2489.71,
+        "sma100": 2598.83,
+        "sma200": 2631.87,
+        "rsi14": 47.7,
         "volume_trend_pct": 33.0,
         "trend": "Downtrend",
         "buying_range": false,
@@ -9794,20 +9817,20 @@
         "debt_to_equity": 22.455,
         "revenue_growth_yoy_pct": 62.9,
         "earnings_growth_yoy_pct": null,
-        "price": 1756.0,
+        "price": 1774.6,
         "week52_low": 601.35,
-        "week52_high": 1756.0,
-        "all_time_high": 1756.0,
-        "sma20": 1499.99,
-        "sma50": 1530.35,
-        "sma100": 1374.69,
-        "sma200": 1081.43,
-        "rsi14": 69.8,
+        "week52_high": 1774.6,
+        "all_time_high": 1774.6,
+        "sma20": 1518.42,
+        "sma50": 1537.07,
+        "sma100": 1382.11,
+        "sma200": 1086.94,
+        "rsi14": 70.8,
         "volume_trend_pct": 4.9,
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "NTPCGREEN",
@@ -9819,15 +9842,15 @@
         "debt_to_equity": 191.669,
         "revenue_growth_yoy_pct": 53.2,
         "earnings_growth_yoy_pct": 60.0,
-        "price": 82.44,
+        "price": 83.42,
         "week52_low": 81.21,
         "week52_high": 118.86,
         "all_time_high": 148.61,
-        "sma20": 87.7,
-        "sma50": 89.27,
-        "sma100": 91.66,
-        "sma200": 94.71,
-        "rsi14": 35.9,
+        "sma20": 87.32,
+        "sma50": 89.11,
+        "sma100": 91.49,
+        "sma200": 94.66,
+        "rsi14": 39.3,
         "volume_trend_pct": -40.4,
         "trend": "Downtrend",
         "buying_range": false,
@@ -9857,7 +9880,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "SAIL",
@@ -9869,20 +9892,20 @@
         "debt_to_equity": 50.327,
         "revenue_growth_yoy_pct": 19.8,
         "earnings_growth_yoy_pct": 319.8,
-        "price": 161.0,
+        "price": 165.3,
         "week52_low": 125.91,
         "week52_high": 206.06,
         "all_time_high": 287.75,
-        "sma20": 169.71,
-        "sma50": 178.42,
-        "sma100": 174.74,
-        "sma200": 171.22,
-        "rsi14": 36.0,
+        "sma20": 169.25,
+        "sma50": 178.27,
+        "sma100": 174.53,
+        "sma200": 171.31,
+        "rsi14": 42.8,
         "volume_trend_pct": -22.9,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "GLENMARK",
@@ -9894,21 +9917,20 @@
         "debt_to_equity": 5.646,
         "revenue_growth_yoy_pct": 23.1,
         "earnings_growth_yoy_pct": 930.7,
-        "price": 2298.7,
+        "price": 2382.0,
         "week52_low": 1810.4,
         "week52_high": 2515.0,
         "all_time_high": 2515.0,
-        "sma20": 2258.73,
-        "sma50": 2354.44,
-        "sma100": 2291.11,
-        "sma200": 2223.57,
-        "rsi14": 51.0,
+        "sma20": 2261.28,
+        "sma50": 2357.15,
+        "sma100": 2292.84,
+        "sma200": 2225.08,
+        "rsi14": 58.8,
         "volume_trend_pct": 15.3,
-        "trend": "Mixed",
+        "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
-          "50DMA",
-          "100DMA"
+          "50DMA"
         ],
         "sector_pe_avg": 54.3
       },
@@ -9922,20 +9944,20 @@
         "debt_to_equity": 30.592,
         "revenue_growth_yoy_pct": 23.9,
         "earnings_growth_yoy_pct": -14.8,
-        "price": 2304.0,
+        "price": 2324.0,
         "week52_low": 2238.0,
         "week52_high": 3585.5,
         "all_time_high": 3739.8,
-        "sma20": 2382.29,
-        "sma50": 2491.65,
-        "sma100": 2665.91,
-        "sma200": 2831.68,
-        "rsi14": 40.6,
+        "sma20": 2381.49,
+        "sma50": 2484.55,
+        "sma100": 2658.74,
+        "sma200": 2830.24,
+        "rsi14": 42.7,
         "volume_trend_pct": 35.1,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "AUBANK",
@@ -9947,20 +9969,20 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 36.0,
         "earnings_growth_yoy_pct": 51.1,
-        "price": 864.0,
+        "price": 890.0,
         "week52_low": 842.7,
         "week52_high": 1128.6,
         "all_time_high": 1128.6,
-        "sma20": 955.41,
-        "sma50": 1018.0,
-        "sma100": 1029.13,
-        "sma200": 1001.86,
-        "rsi14": 29.3,
+        "sma20": 950.56,
+        "sma50": 1014.3,
+        "sma100": 1028.25,
+        "sma200": 1001.35,
+        "rsi14": 36.5,
         "volume_trend_pct": 86.7,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "DABUR",
@@ -9972,20 +9994,22 @@
         "debt_to_equity": 10.907,
         "revenue_growth_yoy_pct": 10.6,
         "earnings_growth_yoy_pct": 15.3,
-        "price": 365.6,
+        "price": 373.9,
         "week52_low": 357.8,
         "week52_high": 525.35,
         "all_time_high": 667.55,
-        "sma20": 375.0,
-        "sma50": 381.29,
-        "sma100": 403.68,
-        "sma200": 437.43,
-        "rsi14": 42.4,
+        "sma20": 374.98,
+        "sma50": 380.78,
+        "sma100": 403.16,
+        "sma200": 436.7,
+        "rsi14": 48.8,
         "volume_trend_pct": -42.9,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 55.7
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "APARINDS",
@@ -9993,26 +10017,26 @@
         "name": "Apar Industries Ltd.",
         "sector": "Capital Goods",
         "market_cap": 657395679232,
-        "pe_ratio": 46.254017,
+        "pe_ratio": 46.15068,
         "debt_to_equity": 11.898,
         "revenue_growth_yoy_pct": 21.3,
         "earnings_growth_yoy_pct": 75.5,
-        "price": 15678.0,
+        "price": 15713.0,
         "week52_low": 6966.0,
         "week52_high": 18945.0,
         "all_time_high": 18945.0,
-        "sma20": 16577.3,
-        "sma50": 17126.68,
-        "sma100": 16104.6,
-        "sma200": 13308.11,
-        "rsi14": 42.4,
+        "sma20": 16480.55,
+        "sma50": 17108.64,
+        "sma100": 16125.64,
+        "sma200": 13345.67,
+        "rsi14": 42.8,
         "volume_trend_pct": 34.2,
         "trend": "Mixed",
         "buying_range": true,
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "INDUSINDBK",
@@ -10037,7 +10061,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "BAJAJHFL",
@@ -10049,20 +10073,20 @@
         "debt_to_equity": 492.126,
         "revenue_growth_yoy_pct": 17.6,
         "earnings_growth_yoy_pct": 18.2,
-        "price": 77.42,
+        "price": 78.18,
         "week52_low": 73.09,
         "week52_high": 110.72,
         "all_time_high": 181.5,
-        "sma20": 81.14,
-        "sma50": 82.67,
-        "sma100": 84.54,
-        "sma200": 85.5,
-        "rsi14": 34.6,
+        "sma20": 80.9,
+        "sma50": 82.53,
+        "sma100": 84.48,
+        "sma200": 85.42,
+        "rsi14": 38.6,
         "volume_trend_pct": -9.2,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "UNOMINDA",
@@ -10074,20 +10098,20 @@
         "debt_to_equity": 37.74,
         "revenue_growth_yoy_pct": 23.8,
         "earnings_growth_yoy_pct": 1.2,
-        "price": 1082.5,
+        "price": 1118.7,
         "week52_low": 1013.2,
         "week52_high": 1336.6,
         "all_time_high": 1366.3,
-        "sma20": 1093.77,
-        "sma50": 1177.83,
-        "sma100": 1167.75,
-        "sma200": 1148.66,
-        "rsi14": 40.5,
+        "sma20": 1094.16,
+        "sma50": 1174.76,
+        "sma100": 1168.0,
+        "sma200": 1147.9,
+        "rsi14": 50.1,
         "volume_trend_pct": -32.0,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "HAVELLS",
@@ -10099,20 +10123,20 @@
         "debt_to_equity": 2.44,
         "revenue_growth_yoy_pct": 34.6,
         "earnings_growth_yoy_pct": 9.6,
-        "price": 1013.8,
+        "price": 1028.6,
         "week52_low": 1008.5,
         "week52_high": 1509.4,
         "all_time_high": 2082.4,
-        "sma20": 1055.81,
-        "sma50": 1117.63,
-        "sma100": 1165.97,
-        "sma200": 1232.03,
-        "rsi14": 36.7,
+        "sma20": 1055.24,
+        "sma50": 1112.46,
+        "sma100": 1164.75,
+        "sma200": 1229.76,
+        "rsi14": 41.0,
         "volume_trend_pct": 5.0,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.7
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "PRESTIGE",
@@ -10151,20 +10175,20 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 32.5,
         "earnings_growth_yoy_pct": 245.7,
-        "price": 72.0,
+        "price": 73.63,
         "week52_low": 58.85,
         "week52_high": 87.9,
         "all_time_high": 99.2,
-        "sma20": 76.82,
-        "sma50": 81.78,
+        "sma20": 76.48,
+        "sma50": 81.54,
         "sma100": 81.43,
-        "sma200": 76.98,
-        "rsi14": 30.1,
+        "sma200": 76.91,
+        "rsi14": 37.5,
         "volume_trend_pct": -12.1,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "LTF",
@@ -10172,24 +10196,24 @@
         "name": "L&T Finance Ltd.",
         "sector": "Financial Services",
         "market_cap": 630373351424,
-        "pe_ratio": 18.451944,
+        "pe_ratio": 17.925873,
         "debt_to_equity": 422.732,
         "revenue_growth_yoy_pct": 31.4,
         "earnings_growth_yoy_pct": 32.4,
-        "price": 244.4,
+        "price": 251.5,
         "week52_low": 237.5,
         "week52_high": 335.6,
         "all_time_high": 335.6,
-        "sma20": 254.02,
-        "sma50": 285.19,
-        "sma100": 295.69,
-        "sma200": 288.18,
-        "rsi14": 35.5,
+        "sma20": 253.38,
+        "sma50": 283.92,
+        "sma100": 295.55,
+        "sma200": 287.91,
+        "rsi14": 42.3,
         "volume_trend_pct": -24.2,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "TORNTPOWER",
@@ -10201,19 +10225,21 @@
         "debt_to_equity": 70.885,
         "revenue_growth_yoy_pct": 2.8,
         "earnings_growth_yoy_pct": -12.7,
-        "price": 1172.9,
+        "price": 1218.7,
         "week52_low": 1157.6,
         "week52_high": 1772.5,
         "all_time_high": 1973.65,
-        "sma20": 1201.66,
-        "sma50": 1235.76,
-        "sma100": 1316.48,
-        "sma200": 1396.18,
-        "rsi14": 41.5,
+        "sma20": 1200.45,
+        "sma50": 1235.26,
+        "sma100": 1314.39,
+        "sma200": 1395.47,
+        "rsi14": 51.6,
         "volume_trend_pct": -41.6,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
         "sector_pe_avg": 43.9
       },
       {
@@ -10266,7 +10292,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "WELCORP",
@@ -10291,7 +10317,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "BANKINDIA",
@@ -10303,20 +10329,22 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 17.4,
         "earnings_growth_yoy_pct": 28.4,
-        "price": 132.86,
+        "price": 134.4,
         "week52_low": 126.32,
         "week52_high": 177.2,
         "all_time_high": 575.75,
-        "sma20": 133.11,
-        "sma50": 137.34,
-        "sma100": 140.17,
-        "sma200": 146.09,
-        "rsi14": 47.7,
+        "sma20": 133.36,
+        "sma50": 137.19,
+        "sma100": 140.03,
+        "sma200": 146.03,
+        "rsi14": 50.1,
         "volume_trend_pct": 37.2,
         "trend": "Downtrend",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "MAHABANK",
@@ -10328,23 +10356,20 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 32.7,
         "earnings_growth_yoy_pct": 28.1,
-        "price": 81.36,
+        "price": 78.99,
         "week52_low": 56.22,
         "week52_high": 93.85,
         "all_time_high": 94.25,
-        "sma20": 80.68,
-        "sma50": 81.84,
-        "sma100": 82.64,
-        "sma200": 76.87,
-        "rsi14": 51.9,
+        "sma20": 80.6,
+        "sma50": 81.83,
+        "sma100": 82.59,
+        "sma200": 76.95,
+        "rsi14": 45.7,
         "volume_trend_pct": -1.2,
         "trend": "Mixed",
-        "buying_range": true,
-        "buying_range_basis": [
-          "50DMA",
-          "100DMA"
-        ],
-        "sector_pe_avg": 24.8
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "ATGL",
@@ -10381,20 +10406,20 @@
         "debt_to_equity": 0.277,
         "revenue_growth_yoy_pct": 39.3,
         "earnings_growth_yoy_pct": 91.1,
-        "price": 314.55,
+        "price": 328.0,
         "week52_low": 230.59,
         "week52_high": 441.5,
         "all_time_high": 441.5,
-        "sma20": 319.25,
-        "sma50": 349.83,
-        "sma100": 355.67,
-        "sma200": 372.63,
-        "rsi14": 42.2,
+        "sma20": 318.91,
+        "sma50": 348.66,
+        "sma100": 355.11,
+        "sma200": 372.61,
+        "rsi14": 50.2,
         "volume_trend_pct": -36.0,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "NMDC",
@@ -10406,20 +10431,20 @@
         "debt_to_equity": 18.802,
         "revenue_growth_yoy_pct": 0.8,
         "earnings_growth_yoy_pct": 0.4,
-        "price": 67.34,
+        "price": 68.42,
         "week52_low": 66.35,
         "week52_high": 96.04,
         "all_time_high": 142.43,
-        "sma20": 70.33,
-        "sma50": 77.91,
-        "sma100": 81.7,
-        "sma200": 82.94,
-        "rsi14": 32.0,
+        "sma20": 70.01,
+        "sma50": 77.61,
+        "sma100": 81.48,
+        "sma200": 82.87,
+        "rsi14": 37.1,
         "volume_trend_pct": -21.9,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "APLAPOLLO",
@@ -10427,26 +10452,26 @@
         "name": "APL Apollo Tubes Ltd.",
         "sector": "Capital Goods",
         "market_cap": 600769495040,
-        "pe_ratio": 46.511177,
+        "pe_ratio": 45.879982,
         "debt_to_equity": 16.771,
         "revenue_growth_yoy_pct": 34.5,
         "earnings_growth_yoy_pct": 25.3,
-        "price": 2165.1,
+        "price": 2163.7,
         "week52_low": 1698.4,
         "week52_high": 2280.8,
         "all_time_high": 2280.8,
-        "sma20": 2128.27,
-        "sma50": 2161.21,
-        "sma100": 2012.97,
-        "sma200": 2010.67,
-        "rsi14": 52.5,
+        "sma20": 2130.67,
+        "sma50": 2162.05,
+        "sma100": 2016.62,
+        "sma200": 2011.92,
+        "rsi14": 52.3,
         "volume_trend_pct": 46.5,
         "trend": "Uptrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 53.9
+        "sector_pe_avg": 53.8
       },
       {
         "symbol": "OBEROIRLTY",
@@ -10483,20 +10508,20 @@
         "debt_to_equity": 17.734,
         "revenue_growth_yoy_pct": 0.8,
         "earnings_growth_yoy_pct": 26.6,
-        "price": 410.0,
-        "week52_low": 409.55,
+        "price": 407.0,
+        "week52_low": 407.0,
         "week52_high": 688.45,
         "all_time_high": 791.05,
-        "sma20": 438.32,
-        "sma50": 466.61,
-        "sma100": 483.02,
-        "sma200": 533.01,
-        "rsi14": 25.4,
+        "sma20": 436.27,
+        "sma50": 464.76,
+        "sma100": 482.35,
+        "sma200": 531.64,
+        "rsi14": 24.2,
         "volume_trend_pct": -30.8,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "ASTERDM",
@@ -10548,7 +10573,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "BIOCON",
@@ -10560,15 +10585,15 @@
         "debt_to_equity": 42.145,
         "revenue_growth_yoy_pct": 10.0,
         "earnings_growth_yoy_pct": 234.6,
-        "price": 351.8,
+        "price": 354.7,
         "week52_low": 323.5,
         "week52_high": 440.7,
         "all_time_high": 483.6,
-        "sma20": 348.13,
-        "sma50": 376.88,
-        "sma100": 399.91,
-        "sma200": 390.78,
-        "rsi14": 46.8,
+        "sma20": 347.33,
+        "sma50": 375.72,
+        "sma100": 399.29,
+        "sma200": 390.67,
+        "rsi14": 49.1,
         "volume_trend_pct": -27.8,
         "trend": "Downtrend",
         "buying_range": false,
@@ -10623,7 +10648,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "IOB",
@@ -10648,7 +10673,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "JSL",
@@ -10673,7 +10698,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 19.0
+        "sector_pe_avg": 18.9
       },
       {
         "symbol": "GICRE",
@@ -10685,20 +10710,20 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 18.7,
         "earnings_growth_yoy_pct": 3.2,
-        "price": 310.85,
+        "price": 317.0,
         "week52_low": 309.1,
         "week52_high": 409.35,
         "all_time_high": 501.0,
-        "sma20": 320.5,
-        "sma50": 336.49,
-        "sma100": 349.3,
-        "sma200": 365.32,
-        "rsi14": 36.1,
+        "sma20": 320.16,
+        "sma50": 335.64,
+        "sma100": 348.59,
+        "sma200": 365.06,
+        "rsi14": 42.5,
         "volume_trend_pct": -45.8,
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "SCHAEFFLER",
@@ -10723,7 +10748,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 45.8
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "ABBOTINDIA",
@@ -10762,20 +10787,20 @@
         "debt_to_equity": 10.744,
         "revenue_growth_yoy_pct": 16.8,
         "earnings_growth_yoy_pct": 66.3,
-        "price": 4086.7,
+        "price": 4100.0,
         "week52_low": 2541.2,
         "week52_high": 4732.9,
         "all_time_high": 4732.9,
-        "sma20": 4355.73,
-        "sma50": 4447.6,
-        "sma100": 4269.65,
-        "sma200": 3637.67,
-        "rsi14": 37.8,
+        "sma20": 4348.88,
+        "sma50": 4435.68,
+        "sma100": 4275.64,
+        "sma200": 3642.13,
+        "rsi14": 38.6,
         "volume_trend_pct": 58.3,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 55.7
+        "sector_pe_avg": 55.6
       },
       {
         "symbol": "RBLBANK",
@@ -10787,20 +10812,20 @@
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 23.1,
         "earnings_growth_yoy_pct": 2.6,
-        "price": 351.0,
+        "price": 352.2,
         "week52_low": 288.6,
         "week52_high": 428.0,
         "all_time_high": 701.45,
-        "sma20": 380.87,
-        "sma50": 393.45,
-        "sma100": 382.83,
-        "sma200": 349.75,
-        "rsi14": 35.5,
+        "sma20": 377.91,
+        "sma50": 392.86,
+        "sma100": 382.74,
+        "sma200": 349.96,
+        "rsi14": 36.3,
         "volume_trend_pct": -33.2,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       },
       {
         "symbol": "BERGEPAINT",
@@ -10808,26 +10833,26 @@
         "name": "Berger Paints India Ltd.",
         "sector": "Consumer Durables",
         "market_cap": 544523321344,
-        "pe_ratio": 44.731804,
+        "pe_ratio": 44.391632,
         "debt_to_equity": 9.165,
         "revenue_growth_yoy_pct": 12.0,
         "earnings_growth_yoy_pct": 28.5,
-        "price": 465.1,
+        "price": 468.6,
         "week52_low": 404.5,
         "week52_high": 590.1,
         "all_time_high": 720.79,
-        "sma20": 467.85,
-        "sma50": 474.2,
-        "sma100": 496.36,
-        "sma200": 483.65,
-        "rsi14": 46.9,
+        "sma20": 468.66,
+        "sma50": 472.85,
+        "sma100": 496.03,
+        "sma200": 483.4,
+        "rsi14": 50.0,
         "volume_trend_pct": -64.1,
         "trend": "Downtrend",
         "buying_range": true,
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 48.7
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "KALYANKJIL",
@@ -10839,20 +10864,20 @@
         "debt_to_equity": 96.966,
         "revenue_growth_yoy_pct": 45.7,
         "earnings_growth_yoy_pct": 31.6,
-        "price": 498.0,
+        "price": 505.45,
         "week52_low": 330.8,
         "week52_high": 634.6,
         "all_time_high": 787.9,
-        "sma20": 540.38,
-        "sma50": 571.68,
-        "sma100": 531.84,
-        "sma200": 466.17,
-        "rsi14": 32.9,
+        "sma20": 539.22,
+        "sma50": 569.88,
+        "sma100": 533.34,
+        "sma200": 466.14,
+        "rsi14": 36.4,
         "volume_trend_pct": -72.7,
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.7
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "COROMANDEL",
@@ -10864,15 +10889,15 @@
         "debt_to_equity": 11.469,
         "revenue_growth_yoy_pct": 15.9,
         "earnings_growth_yoy_pct": -24.5,
-        "price": 1696.0,
+        "price": 1740.0,
         "week52_low": 1673.7,
         "week52_high": 2408.2,
         "all_time_high": 2691.4,
-        "sma20": 1740.28,
-        "sma50": 1857.48,
-        "sma100": 1942.76,
-        "sma200": 2008.26,
-        "rsi14": 37.1,
+        "sma20": 1739.1,
+        "sma50": 1851.52,
+        "sma100": 1942.09,
+        "sma200": 2005.6,
+        "rsi14": 44.5,
         "volume_trend_pct": -35.2,
         "trend": "Downtrend",
         "buying_range": false,
@@ -10927,7 +10952,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 24.8
+        "sector_pe_avg": 24.7
       }
     ]
   },
