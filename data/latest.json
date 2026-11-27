@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:51:24.215383+00:00",
+  "generated_at": "2026-11-27T01:43:44.869232+00:00",
   "criteria": {
     "us_min_market_cap": 50000000000,
     "india_min_market_cap_inr": 500000000000.0,
@@ -30,7 +30,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "MSFT",
@@ -57,7 +57,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "NVDA",
@@ -82,7 +82,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "GOOGL",
@@ -107,7 +107,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "GOOG",
@@ -132,7 +132,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "AMZN",
@@ -165,7 +165,7 @@
         "name": "Meta Platforms",
         "sector": "Communication Services",
         "market_cap": 1559025942528,
-        "pe_ratio": 20.121742,
+        "pe_ratio": 20.808258,
         "debt_to_equity": 42.161,
         "revenue_growth_yoy_pct": 26.1,
         "earnings_growth_yoy_pct": 264.8,
@@ -182,7 +182,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "TSLA",
@@ -234,7 +234,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "LLY",
@@ -291,7 +291,7 @@
         "yf_symbol": "WMT",
         "name": "Walmart",
         "sector": "Consumer Staples",
-        "market_cap": 1049988956160,
+        "market_cap": 1046778478592,
         "pe_ratio": 47.804348,
         "debt_to_equity": 76.013,
         "revenue_growth_yoy_pct": 5.2,
@@ -384,7 +384,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "AMD",
@@ -409,7 +409,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "JNJ",
@@ -641,7 +641,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "CSCO",
@@ -666,7 +666,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "HD",
@@ -795,7 +795,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "UNH",
@@ -848,7 +848,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "INTC",
@@ -873,7 +873,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "PM",
@@ -1053,7 +1053,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "TXN",
@@ -1078,7 +1078,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "NFLX",
@@ -1103,7 +1103,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "WFC",
@@ -1180,7 +1180,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "GS",
@@ -1232,7 +1232,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "GILD",
@@ -1282,7 +1282,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "DIS",
@@ -1307,7 +1307,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "AXP",
@@ -1359,7 +1359,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "MCD",
@@ -1436,7 +1436,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "GEV",
@@ -1486,7 +1486,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "C",
@@ -1590,7 +1590,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "APH",
@@ -1615,7 +1615,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "NEE",
@@ -1722,7 +1722,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "KLAC",
@@ -1730,7 +1730,7 @@
         "name": "KLA Corporation",
         "sector": "Information Technology",
         "market_cap": 174857551872,
-        "pe_ratio": 29.23747,
+        "pe_ratio": 33.634083,
         "debt_to_equity": 91.864,
         "revenue_growth_yoy_pct": 28.9,
         "earnings_growth_yoy_pct": 38.8,
@@ -1747,7 +1747,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "DE",
@@ -1799,7 +1799,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "PFE",
@@ -1828,6 +1828,33 @@
           "100DMA"
         ],
         "sector_pe_avg": 41.3
+      },
+      {
+        "symbol": "TJX",
+        "yf_symbol": "TJX",
+        "name": "TJX Companies",
+        "sector": "Consumer Discretionary",
+        "market_cap": 161386266624,
+        "pe_ratio": 26.513609,
+        "debt_to_equity": 125.007,
+        "revenue_growth_yoy_pct": 5.5,
+        "earnings_growth_yoy_pct": 8.6,
+        "price": 146.09,
+        "week52_low": 122.84,
+        "week52_high": 168.41,
+        "all_time_high": 168.41,
+        "sma20": 138.51,
+        "sma50": 138.04,
+        "sma100": 142.17,
+        "sma200": 149.88,
+        "rsi14": 61.1,
+        "volume_trend_pct": 46.8,
+        "trend": "Mixed",
+        "buying_range": true,
+        "buying_range_basis": [
+          "100DMA"
+        ],
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "SCHW",
@@ -1879,34 +1906,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
-      },
-      {
-        "symbol": "TJX",
-        "yf_symbol": "TJX",
-        "name": "TJX Companies",
-        "sector": "Consumer Discretionary",
-        "market_cap": 160695205888,
-        "pe_ratio": 26.513609,
-        "debt_to_equity": 125.007,
-        "revenue_growth_yoy_pct": 5.5,
-        "earnings_growth_yoy_pct": 8.6,
-        "price": 146.09,
-        "week52_low": 122.84,
-        "week52_high": 168.41,
-        "all_time_high": 168.41,
-        "sma20": 138.51,
-        "sma50": 138.04,
-        "sma100": 142.17,
-        "sma200": 149.88,
-        "rsi14": 61.1,
-        "volume_trend_pct": 46.8,
-        "trend": "Mixed",
-        "buying_range": true,
-        "buying_range_basis": [
-          "100DMA"
-        ],
-        "sector_pe_avg": 47.9
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "DHR",
@@ -1988,7 +1988,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "ISRG",
@@ -2117,7 +2117,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "LMT",
@@ -2395,7 +2395,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "ADP",
@@ -2574,7 +2574,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "PH",
@@ -2724,7 +2724,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "MAR",
@@ -2832,7 +2832,7 @@
         "name": "Duke Energy",
         "sector": "Utilities",
         "market_cap": 102843514880,
-        "pe_ratio": 19.340174,
+        "pe_ratio": 19.199417,
         "debt_to_equity": 162.977,
         "revenue_growth_yoy_pct": 6.6,
         "earnings_growth_yoy_pct": 10.0,
@@ -2927,7 +2927,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "REGN",
@@ -3002,7 +3002,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "BNY",
@@ -3156,7 +3156,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "UPS",
@@ -3283,7 +3283,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 16.2
+        "sector_pe_avg": 16.3
       },
       {
         "symbol": "USB",
@@ -3335,7 +3335,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "CTAS",
@@ -3410,7 +3410,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "WAT",
@@ -3641,7 +3641,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "EMR",
@@ -3848,7 +3848,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "MCO",
@@ -4078,7 +4078,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "CL",
@@ -4178,7 +4178,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "ORLY",
@@ -4417,31 +4417,6 @@
         "sector_pe_avg": 28.7
       },
       {
-        "symbol": "ROST",
-        "yf_symbol": "ROST",
-        "name": "Ross Stores",
-        "sector": "Consumer Discretionary",
-        "market_cap": 71617585152,
-        "pe_ratio": 25.990686,
-        "debt_to_equity": 71.072,
-        "revenue_growth_yoy_pct": 11.7,
-        "earnings_growth_yoy_pct": 20.9,
-        "price": 223.26,
-        "week52_low": 176.36,
-        "week52_high": 255.23,
-        "all_time_high": 255.23,
-        "sma20": 229.59,
-        "sma50": 230.61,
-        "sma100": 233.62,
-        "sma200": 225.99,
-        "rsi14": 46.1,
-        "volume_trend_pct": 26.6,
-        "trend": "Mixed",
-        "buying_range": false,
-        "buying_range_basis": [],
-        "sector_pe_avg": 47.9
-      },
-      {
         "symbol": "SLB",
         "yf_symbol": "SLB",
         "name": "Schlumberger",
@@ -4472,7 +4447,7 @@
         "name": "Intuit",
         "sector": "Information Technology",
         "market_cap": 71589896192,
-        "pe_ratio": 16.507898,
+        "pe_ratio": 15.464997,
         "debt_to_equity": 42.287,
         "revenue_growth_yoy_pct": 12.1,
         "earnings_growth_yoy_pct": 62.9,
@@ -4489,7 +4464,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "CI",
@@ -4542,6 +4517,31 @@
           "100DMA"
         ],
         "sector_pe_avg": 28.7
+      },
+      {
+        "symbol": "ROST",
+        "yf_symbol": "ROST",
+        "name": "Ross Stores",
+        "sector": "Consumer Discretionary",
+        "market_cap": 71321100288,
+        "pe_ratio": 25.990686,
+        "debt_to_equity": 71.072,
+        "revenue_growth_yoy_pct": 11.7,
+        "earnings_growth_yoy_pct": 20.9,
+        "price": 223.26,
+        "week52_low": 176.36,
+        "week52_high": 255.23,
+        "all_time_high": 255.23,
+        "sma20": 229.59,
+        "sma50": 230.61,
+        "sma100": 233.62,
+        "sma200": 225.99,
+        "rsi14": 46.1,
+        "volume_trend_pct": 26.6,
+        "trend": "Mixed",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 47.9
       },
       {
         "symbol": "APO",
@@ -5118,7 +5118,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "EW",
@@ -5198,7 +5198,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "BDX",
@@ -5308,7 +5308,7 @@
         "name": "Monolithic Power Systems",
         "sector": "Information Technology",
         "market_cap": 58259714048,
-        "pe_ratio": 65.49506,
+        "pe_ratio": 65.244675,
         "debt_to_equity": 0.572,
         "revenue_growth_yoy_pct": 63.1,
         "earnings_growth_yoy_pct": 47.3,
@@ -5325,7 +5325,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "CMI",
@@ -5429,7 +5429,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "PCAR",
@@ -5489,7 +5489,7 @@
         "name": "Nucor",
         "sector": "Materials",
         "market_cap": 55862636544,
-        "pe_ratio": 15.827916,
+        "pe_ratio": 15.817834,
         "debt_to_equity": 29.443,
         "revenue_growth_yoy_pct": 32.0,
         "earnings_growth_yoy_pct": 120.5,
@@ -5692,7 +5692,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "AME",
@@ -5777,7 +5777,7 @@
         "name": "Autodesk",
         "sector": "Information Technology",
         "market_cap": 51578064896,
-        "pe_ratio": 30.65652,
+        "pe_ratio": 32.00843,
         "debt_to_equity": 123.147,
         "revenue_growth_yoy_pct": 16.6,
         "earnings_growth_yoy_pct": 67.5,
@@ -5796,7 +5796,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 94.0
+        "sector_pe_avg": 94.1
       },
       {
         "symbol": "ETR",
@@ -5986,6 +5986,31 @@
     ],
     "India": [
       {
+        "symbol": "RELIANCE",
+        "yf_symbol": "RELIANCE.NS",
+        "name": "Reliance Industries Ltd.",
+        "sector": "Oil Gas & Consumable Fuels",
+        "market_cap": 18894037188608,
+        "pe_ratio": 23.009228,
+        "debt_to_equity": 44.325,
+        "revenue_growth_yoy_pct": 29.8,
+        "earnings_growth_yoy_pct": 40.7,
+        "price": 1373.9,
+        "week52_low": 1158.0,
+        "week52_high": 1592.3,
+        "all_time_high": 1600.9,
+        "sma20": 1306.54,
+        "sma50": 1247.95,
+        "sma100": 1275.33,
+        "sma200": 1322.44,
+        "rsi14": 68.9,
+        "volume_trend_pct": 7.3,
+        "trend": "Mixed",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 24.1
+      },
+      {
         "symbol": "HDFCBANK",
         "yf_symbol": "HDFCBANK.NS",
         "name": "HDFC Bank Ltd.",
@@ -6008,7 +6033,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "BHARTIARTL",
@@ -6058,7 +6083,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "SBIN",
@@ -6083,7 +6108,32 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
+      },
+      {
+        "symbol": "TCS",
+        "yf_symbol": "TCS.NS",
+        "name": "Tata Consultancy Services Ltd.",
+        "sector": "Information Technology",
+        "market_cap": 9552836689920,
+        "pe_ratio": 18.50764,
+        "debt_to_equity": 9.83,
+        "revenue_growth_yoy_pct": 11.2,
+        "earnings_growth_yoy_pct": 15.0,
+        "price": 2517.3,
+        "week52_low": 1982.6,
+        "week52_high": 3324.9,
+        "all_time_high": 4553.75,
+        "sma20": 2452.66,
+        "sma50": 2310.33,
+        "sma100": 2296.91,
+        "sma200": 2373.16,
+        "rsi14": 62.4,
+        "volume_trend_pct": -15.8,
+        "trend": "Mixed",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "BAJFINANCE",
@@ -6108,7 +6158,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "LT",
@@ -6136,34 +6186,6 @@
         "sector_pe_avg": 31.8
       },
       {
-        "symbol": "LICI",
-        "yf_symbol": "LICI.NS",
-        "name": "Life Insurance Corporation of India",
-        "sector": "Financial Services",
-        "market_cap": 5186498068480,
-        "pe_ratio": 8.352007,
-        "debt_to_equity": null,
-        "revenue_growth_yoy_pct": 9.8,
-        "earnings_growth_yoy_pct": 758.3,
-        "price": 408.35,
-        "week52_low": 362.83,
-        "week52_high": 457.75,
-        "all_time_high": 594.05,
-        "sma20": 399.17,
-        "sma50": 396.75,
-        "sma100": 408.21,
-        "sma200": 409.04,
-        "rsi14": 57.6,
-        "volume_trend_pct": 37.3,
-        "trend": "Mixed",
-        "buying_range": true,
-        "buying_range_basis": [
-          "50DMA",
-          "100DMA"
-        ],
-        "sector_pe_avg": 32.5
-      },
-      {
         "symbol": "KOTAKBANK",
         "yf_symbol": "KOTAKBANK.NS",
         "name": "Kotak Mahindra Bank Ltd.",
@@ -6186,7 +6208,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "HINDUNILVR",
@@ -6211,7 +6233,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "INFY",
@@ -6238,7 +6260,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "SUNPHARMA",
@@ -6265,7 +6287,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "MARUTI",
@@ -6290,7 +6312,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "ADANIPORTS",
@@ -6340,7 +6362,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "M&M",
@@ -6365,7 +6387,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "TITAN",
@@ -6428,7 +6450,7 @@
         "name": "HCL Technologies Ltd.",
         "sector": "Information Technology",
         "market_cap": 3974950289408,
-        "pe_ratio": 21.728067,
+        "pe_ratio": 21.978449,
         "debt_to_equity": 7.905,
         "revenue_growth_yoy_pct": 2.2,
         "earnings_growth_yoy_pct": 10.8,
@@ -6445,7 +6467,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "ITC",
@@ -6470,7 +6492,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "ULTRACEMCO",
@@ -6547,7 +6569,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "HAL",
@@ -6574,7 +6596,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "JSWSTEEL",
@@ -6654,7 +6676,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "BAJAJFINSV",
@@ -6662,7 +6684,7 @@
         "name": "Bajaj Finserv Ltd.",
         "sector": "Financial Services",
         "market_cap": 3017901604864,
-        "pe_ratio": 28.500832,
+        "pe_ratio": 28.278603,
         "debt_to_equity": 281.687,
         "revenue_growth_yoy_pct": 17.2,
         "earnings_growth_yoy_pct": 23.2,
@@ -6681,14 +6703,14 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "BAJAJ-AUTO",
         "yf_symbol": "BAJAJ-AUTO.NS",
         "name": "Bajaj Auto Ltd.",
         "sector": "Automobile and Auto Components",
-        "market_cap": 2981621661696,
+        "market_cap": 2979168256000,
         "pe_ratio": 23.1442,
         "debt_to_equity": 69.647,
         "revenue_growth_yoy_pct": 57.4,
@@ -6709,7 +6731,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "BEL",
@@ -6736,7 +6758,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "ONGC",
@@ -6763,7 +6785,35 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 27.1
+        "sector_pe_avg": 24.1
+      },
+      {
+        "symbol": "LICI",
+        "yf_symbol": "LICI.NS",
+        "name": "Life Insurance Corporation of India",
+        "sector": "Financial Services",
+        "market_cap": 2593249034240,
+        "pe_ratio": 8.352007,
+        "debt_to_equity": null,
+        "revenue_growth_yoy_pct": 9.8,
+        "earnings_growth_yoy_pct": 758.3,
+        "price": 408.35,
+        "week52_low": 362.83,
+        "week52_high": 457.75,
+        "all_time_high": 594.05,
+        "sma20": 399.17,
+        "sma50": 396.75,
+        "sma100": 408.21,
+        "sma200": 409.04,
+        "rsi14": 57.6,
+        "volume_trend_pct": 37.3,
+        "trend": "Mixed",
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA",
+          "100DMA"
+        ],
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "NESTLEIND",
@@ -6790,7 +6840,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "POWERGRID",
@@ -6870,7 +6920,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 27.1
+        "sector_pe_avg": 24.1
       },
       {
         "symbol": "DMART",
@@ -6878,7 +6928,7 @@
         "name": "Avenue Supermarts Ltd.",
         "sector": "Consumer Services",
         "market_cap": 2304613810176,
-        "pe_ratio": 73.88122,
+        "pe_ratio": 74.144806,
         "debt_to_equity": 16.338,
         "revenue_growth_yoy_pct": 17.8,
         "earnings_growth_yoy_pct": 8.7,
@@ -6897,7 +6947,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "SHRIRAMFIN",
@@ -6924,7 +6974,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "EICHERMOT",
@@ -6949,7 +6999,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "HINDZINC",
@@ -7029,6 +7079,31 @@
         "sector_pe_avg": 111.0
       },
       {
+        "symbol": "TVSMOTOR",
+        "yf_symbol": "TVSMOTOR.NS",
+        "name": "TVS Motor Company Ltd.",
+        "sector": "Automobile and Auto Components",
+        "market_cap": 2162326896640,
+        "pe_ratio": 56.487896,
+        "debt_to_equity": 320.877,
+        "revenue_growth_yoy_pct": 39.4,
+        "earnings_growth_yoy_pct": 50.2,
+        "price": 4610.0,
+        "week52_low": 3283.4,
+        "week52_high": 4610.0,
+        "all_time_high": 4610.0,
+        "sma20": 4413.5,
+        "sma50": 4191.23,
+        "sma100": 4139.98,
+        "sma200": 3856.26,
+        "rsi14": 65.2,
+        "volume_trend_pct": -8.2,
+        "trend": "Uptrend",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 45.7
+      },
+      {
         "symbol": "GRASIM",
         "yf_symbol": "GRASIM.NS",
         "name": "Grasim Industries Ltd.",
@@ -7081,6 +7156,31 @@
         "sector_pe_avg": 18.2
       },
       {
+        "symbol": "IOC",
+        "yf_symbol": "IOC.NS",
+        "name": "Indian Oil Corporation Ltd.",
+        "sector": "Oil Gas & Consumable Fuels",
+        "market_cap": 2039389224960,
+        "pe_ratio": 4.2104955,
+        "debt_to_equity": 58.206,
+        "revenue_growth_yoy_pct": 42.2,
+        "earnings_growth_yoy_pct": 173.6,
+        "price": 147.79,
+        "week52_low": 125.35,
+        "week52_high": 187.47,
+        "all_time_high": 202.12,
+        "sma20": 141.92,
+        "sma50": 135.92,
+        "sma100": 137.76,
+        "sma200": 144.24,
+        "rsi14": 61.7,
+        "volume_trend_pct": -0.7,
+        "trend": "Mixed",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 24.1
+      },
+      {
         "symbol": "HINDALCO",
         "yf_symbol": "HINDALCO.NS",
         "name": "Hindalco Industries Ltd.",
@@ -7128,7 +7228,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.5
+        "sector_pe_avg": 48.4
       },
       {
         "symbol": "WIPRO",
@@ -7153,7 +7253,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "TORNTPHARM",
@@ -7180,7 +7280,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "SBILIFE",
@@ -7188,7 +7288,7 @@
         "name": "SBI Life Insurance Company Ltd.",
         "sector": "Financial Services",
         "market_cap": 1848660852736,
-        "pe_ratio": 69.625854,
+        "pe_ratio": 70.370514,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 5.9,
         "earnings_growth_yoy_pct": 11.0,
@@ -7205,7 +7305,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "MOTHERSON",
@@ -7230,7 +7330,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "TRENT",
@@ -7255,7 +7355,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "HYUNDAI",
@@ -7282,7 +7382,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "PNB",
@@ -7307,7 +7407,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "ADANIENSOL",
@@ -7342,7 +7442,7 @@
         "name": "Solar Industries India Ltd.",
         "sector": "Chemicals",
         "market_cap": 1651443499008,
-        "pe_ratio": 72.96206,
+        "pe_ratio": 72.96498,
         "debt_to_equity": 22.384,
         "revenue_growth_yoy_pct": 69.0,
         "earnings_growth_yoy_pct": 78.9,
@@ -7384,7 +7484,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "PIDILITIND",
@@ -7436,7 +7536,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "UNIONBANK",
@@ -7461,7 +7561,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "TMCV",
@@ -7488,7 +7588,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "CHOLAFIN",
@@ -7513,7 +7613,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "JIOFIN",
@@ -7540,7 +7640,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "TATACAP",
@@ -7548,7 +7648,7 @@
         "name": "Tata Capital Ltd.",
         "sector": "Financial Services",
         "market_cap": 1477107384320,
-        "pe_ratio": 24.7387,
+        "pe_ratio": 24.896944,
         "debt_to_equity": 518.106,
         "revenue_growth_yoy_pct": 34.4,
         "earnings_growth_yoy_pct": 43.2,
@@ -7567,7 +7667,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "ABB",
@@ -7595,7 +7695,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "ICICIAMC",
@@ -7623,7 +7723,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "BHEL",
@@ -7651,7 +7751,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "VBL",
@@ -7659,7 +7759,7 @@
         "name": "Varun Beverages Ltd.",
         "sector": "Fast Moving Consumer Goods",
         "market_cap": 1449085501440,
-        "pe_ratio": 151.9149,
+        "pe_ratio": 148.23529,
         "debt_to_equity": 15.869,
         "revenue_growth_yoy_pct": 34.9,
         "earnings_growth_yoy_pct": 11.9,
@@ -7679,7 +7779,32 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "yf_symbol": "BOSCHLTD.NS",
+        "name": "Bosch Ltd.",
+        "sector": "Automobile and Auto Components",
+        "market_cap": 1440294502400,
+        "pe_ratio": 52.242477,
+        "debt_to_equity": 2.68,
+        "revenue_growth_yoy_pct": 59.7,
+        "earnings_growth_yoy_pct": 51.6,
+        "price": 49130.0,
+        "week52_low": 28745.0,
+        "week52_high": 52475.0,
+        "all_time_high": 52475.0,
+        "sma20": 49175.25,
+        "sma50": 47280.7,
+        "sma100": 45864.9,
+        "sma200": 40868.65,
+        "rsi14": 54.3,
+        "volume_trend_pct": -28.2,
+        "trend": "Uptrend",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "BANKBARODA",
@@ -7704,7 +7829,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "VAML",
@@ -7754,7 +7879,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "LAURUSLABS",
@@ -7779,7 +7904,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "POWERINDIA",
@@ -7787,7 +7912,7 @@
         "name": "Hitachi Energy India Ltd.",
         "sector": "Capital Goods",
         "market_cap": 1352102707200,
-        "pe_ratio": 112.24792,
+        "pe_ratio": 114.01993,
         "debt_to_equity": 1.454,
         "revenue_growth_yoy_pct": 63.5,
         "earnings_growth_yoy_pct": 20.5,
@@ -7806,7 +7931,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "BPCL",
@@ -7833,7 +7958,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 27.1
+        "sector_pe_avg": 24.1
       },
       {
         "symbol": "BAJAJHLDNG",
@@ -7841,7 +7966,7 @@
         "name": "Bajaj Holdings & Investment Ltd.",
         "sector": "Financial Services",
         "market_cap": 1328065544192,
-        "pe_ratio": 14.292901,
+        "pe_ratio": 14.136113,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": -55.2,
         "earnings_growth_yoy_pct": 27.8,
@@ -7858,7 +7983,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "APOLLOHOSP",
@@ -7866,7 +7991,7 @@
         "name": "Apollo Hospitals Enterprise Ltd.",
         "sector": "Healthcare",
         "market_cap": 1326053982208,
-        "pe_ratio": 58.97116,
+        "pe_ratio": 59.70801,
         "debt_to_equity": 73.041,
         "revenue_growth_yoy_pct": 20.8,
         "earnings_growth_yoy_pct": 31.9,
@@ -7883,7 +8008,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "LTM",
@@ -7911,7 +8036,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "HDFCLIFE",
@@ -7936,7 +8061,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "SIEMENS",
@@ -7963,7 +8088,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "INDHOTEL",
@@ -7988,7 +8113,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "LODHA",
@@ -7996,7 +8121,7 @@
         "name": "Lodha Developers Ltd.",
         "sector": "Realty",
         "market_cap": 1260255182848,
-        "pe_ratio": 29.019789,
+        "pe_ratio": 29.026466,
         "debt_to_equity": 41.126,
         "revenue_growth_yoy_pct": 17.6,
         "earnings_growth_yoy_pct": 28.6,
@@ -8013,7 +8138,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.5
+        "sector_pe_avg": 48.4
       },
       {
         "symbol": "IDEA",
@@ -8046,7 +8171,7 @@
         "name": "Indian Bank",
         "sector": "Financial Services",
         "market_cap": 1256717418496,
-        "pe_ratio": 9.476892,
+        "pe_ratio": 9.507796,
         "debt_to_equity": null,
         "revenue_growth_yoy_pct": 14.4,
         "earnings_growth_yoy_pct": 14.0,
@@ -8063,7 +8188,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "BRITANNIA",
@@ -8090,7 +8215,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "LENSKART",
@@ -8115,7 +8240,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "GAIL",
@@ -8140,7 +8265,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 27.1
+        "sector_pe_avg": 24.1
       },
       {
         "symbol": "CGPOWER",
@@ -8165,7 +8290,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "MARICO",
@@ -8190,7 +8315,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "CANBK",
@@ -8215,7 +8340,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "LGEINDIA",
@@ -8248,7 +8373,7 @@
         "name": "Zydus Lifesciences Ltd.",
         "sector": "Healthcare",
         "market_cap": 1191219036160,
-        "pe_ratio": 28.535244,
+        "pe_ratio": 28.4808,
         "debt_to_equity": 46.059,
         "revenue_growth_yoy_pct": 29.2,
         "earnings_growth_yoy_pct": -25.8,
@@ -8265,7 +8390,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "CIPLA",
@@ -8292,7 +8417,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "HDFCAMC",
@@ -8317,7 +8442,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "MEESHO",
@@ -8342,7 +8467,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "DRREDDY",
@@ -8367,7 +8492,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "HEROMOTOCO",
@@ -8392,7 +8517,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "TATACONSUM",
@@ -8417,7 +8542,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "CUMMINSIND",
@@ -8442,7 +8567,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "PAYTM",
@@ -8469,7 +8594,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "JINDALSTEL",
@@ -8505,7 +8630,7 @@
         "name": "Aditya Birla Capital Ltd.",
         "sector": "Financial Services",
         "market_cap": 1132601540608,
-        "pe_ratio": 24.452986,
+        "pe_ratio": 24.510965,
         "debt_to_equity": 423.606,
         "revenue_growth_yoy_pct": 36.6,
         "earnings_growth_yoy_pct": 43.5,
@@ -8522,7 +8647,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "MANKIND",
@@ -8547,7 +8672,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "POLYCAB",
@@ -8572,7 +8697,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "PFC",
@@ -8599,7 +8724,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "ENRIN",
@@ -8607,7 +8732,7 @@
         "name": "Siemens Energy India Ltd.",
         "sector": "Capital Goods",
         "market_cap": 1089016496128,
-        "pe_ratio": 73.1754,
+        "pe_ratio": 61.147774,
         "debt_to_equity": 4.621,
         "revenue_growth_yoy_pct": 34.3,
         "earnings_growth_yoy_pct": 81.5,
@@ -8626,7 +8751,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "GMRAIRPORT",
@@ -8681,7 +8806,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "GVT&D",
@@ -8708,7 +8833,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "UNITDSPR",
@@ -8733,7 +8858,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "MAXHEALTH",
@@ -8758,7 +8883,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "AUROPHARMA",
@@ -8783,7 +8908,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "TATAPOWER",
@@ -8833,7 +8958,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "PERSISTENT",
@@ -8858,7 +8983,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "NYKAA",
@@ -8883,7 +9008,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "INDUSTOWER",
@@ -8912,6 +9037,31 @@
           "100DMA"
         ],
         "sector_pe_avg": 24.5
+      },
+      {
+        "symbol": "MCX",
+        "yf_symbol": "MCX.NS",
+        "name": "Multi Commodity Exchange of India Ltd.",
+        "sector": "Financial Services",
+        "market_cap": 976061530112,
+        "pe_ratio": 66.15491,
+        "debt_to_equity": 0.182,
+        "revenue_growth_yoy_pct": 112.4,
+        "earnings_growth_yoy_pct": 130.2,
+        "price": 3565.0,
+        "week52_low": 1933.0,
+        "week52_high": 3729.6,
+        "all_time_high": 3729.6,
+        "sma20": 3481.16,
+        "sma50": 3339.59,
+        "sma100": 3138.93,
+        "sma200": 2939.0,
+        "rsi14": 56.2,
+        "volume_trend_pct": 10.7,
+        "trend": "Uptrend",
+        "buying_range": false,
+        "buying_range_basis": [],
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "AMBUJACEM",
@@ -8963,7 +9113,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "TMPV",
@@ -8988,7 +9138,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "VEDL",
@@ -9016,6 +9166,34 @@
         "sector_pe_avg": 18.2
       },
       {
+        "symbol": "ASHOKLEY",
+        "yf_symbol": "ASHOKLEY.NS",
+        "name": "Ashok Leyland Ltd.",
+        "sector": "Capital Goods",
+        "market_cap": 917202337792,
+        "pe_ratio": 25.767326,
+        "debt_to_equity": 376.705,
+        "revenue_growth_yoy_pct": 35.4,
+        "earnings_growth_yoy_pct": 10.9,
+        "price": 158.0,
+        "week52_low": 138.58,
+        "week52_high": 211.92,
+        "all_time_high": 211.92,
+        "sma20": 160.17,
+        "sma50": 155.8,
+        "sma100": 161.21,
+        "sma200": 166.86,
+        "rsi14": 47.7,
+        "volume_trend_pct": 40.8,
+        "trend": "Mixed",
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA",
+          "100DMA"
+        ],
+        "sector_pe_avg": 54.7
+      },
+      {
         "symbol": "LUPIN",
         "yf_symbol": "LUPIN.NS",
         "name": "Lupin Ltd.",
@@ -9040,7 +9218,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "SHREECEM",
@@ -9117,7 +9295,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "FEDERALBNK",
@@ -9142,7 +9320,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "ICICIGI",
@@ -9167,7 +9345,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "LLOYDSME",
@@ -9217,7 +9395,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "JSWINFRA",
@@ -9267,7 +9445,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "HINDPETRO",
@@ -9292,7 +9470,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 27.1
+        "sector_pe_avg": 24.1
       },
       {
         "symbol": "PHOENIXLTD",
@@ -9300,7 +9478,7 @@
         "name": "Phoenix Mills Ltd.",
         "sector": "Realty",
         "market_cap": 819495043072,
-        "pe_ratio": 62.767124,
+        "pe_ratio": 62.08672,
         "debt_to_equity": 54.31,
         "revenue_growth_yoy_pct": 3.4,
         "earnings_growth_yoy_pct": 7.1,
@@ -9317,7 +9495,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.5
+        "sector_pe_avg": 48.4
       },
       {
         "symbol": "OFSS",
@@ -9342,15 +9520,15 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 28.0
+        "sector_pe_avg": 27.0
       },
       {
         "symbol": "UNOMINDA",
         "yf_symbol": "UNOMINDA.NS",
         "name": "UNO Minda Ltd.",
         "sector": "Automobile and Auto Components",
-        "market_cap": 802679422976,
-        "pe_ratio": 60.938187,
+        "market_cap": 802665005056,
+        "pe_ratio": 60.14712,
         "debt_to_equity": 37.171,
         "revenue_growth_yoy_pct": 38.3,
         "earnings_growth_yoy_pct": 37.8,
@@ -9367,7 +9545,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "NAUKRI",
@@ -9395,7 +9573,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 205.1
+        "sector_pe_avg": 205.2
       },
       {
         "symbol": "PRESTIGE",
@@ -9420,7 +9598,34 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.5
+        "sector_pe_avg": 48.4
+      },
+      {
+        "symbol": "RECLTD",
+        "yf_symbol": "RECLTD.NS",
+        "name": "REC Ltd.",
+        "sector": "Financial Services",
+        "market_cap": 782857469952,
+        "pe_ratio": 5.196644,
+        "debt_to_equity": 564.683,
+        "revenue_growth_yoy_pct": -12.9,
+        "earnings_growth_yoy_pct": -21.2,
+        "price": 299.0,
+        "week52_low": 284.5,
+        "week52_high": 385.25,
+        "all_time_high": 645.8,
+        "sma20": 295.33,
+        "sma50": 300.68,
+        "sma100": 323.33,
+        "sma200": 336.21,
+        "rsi14": 50.4,
+        "volume_trend_pct": -44.9,
+        "trend": "Downtrend",
+        "buying_range": true,
+        "buying_range_basis": [
+          "50DMA"
+        ],
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "DIXON",
@@ -9473,7 +9678,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "BHARTIHEXA",
@@ -9554,7 +9759,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "INDUSINDBK",
@@ -9581,7 +9786,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "IDFCFIRSTB",
@@ -9606,7 +9811,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "SRF",
@@ -9614,7 +9819,7 @@
         "name": "SRF Ltd.",
         "sector": "Chemicals",
         "market_cap": 745876094976,
-        "pe_ratio": 32.224358,
+        "pe_ratio": 32.676273,
         "debt_to_equity": 35.123,
         "revenue_growth_yoy_pct": 34.7,
         "earnings_growth_yoy_pct": 31.1,
@@ -9659,7 +9864,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "HAVELLS",
@@ -9713,7 +9918,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "MAZDOCK",
@@ -9738,7 +9943,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "MOTILALOFS",
@@ -9763,7 +9968,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "BANKINDIA",
@@ -9788,7 +9993,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "MAHABANK",
@@ -9813,7 +10018,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "LTF",
@@ -9838,7 +10043,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "OIL",
@@ -9863,7 +10068,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 27.1
+        "sector_pe_avg": 24.1
       },
       {
         "symbol": "NTPCGREEN",
@@ -9913,7 +10118,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 48.5
+        "sector_pe_avg": 48.4
       },
       {
         "symbol": "WAAREEENER",
@@ -9940,7 +10145,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "ICICILIFE",
@@ -9967,7 +10172,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "NAM-INDIA",
@@ -9994,7 +10199,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "ASTERDM",
@@ -10021,7 +10226,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "BAJAJHFL",
@@ -10048,7 +10253,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "SAIL",
@@ -10106,7 +10311,7 @@
         "name": "Radico Khaitan Ltd",
         "sector": "Fast Moving Consumer Goods",
         "market_cap": 625862901760,
-        "pe_ratio": 78.6099,
+        "pe_ratio": 78.57023,
         "debt_to_equity": 10.744,
         "revenue_growth_yoy_pct": 16.8,
         "earnings_growth_yoy_pct": 66.3,
@@ -10123,7 +10328,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 62.2
+        "sector_pe_avg": 61.9
       },
       {
         "symbol": "FORTIS",
@@ -10131,7 +10336,7 @@
         "name": "Fortis Healthcare Ltd.",
         "sector": "Healthcare",
         "market_cap": 623519924224,
-        "pe_ratio": 60.021805,
+        "pe_ratio": 61.26855,
         "debt_to_equity": 29.404,
         "revenue_growth_yoy_pct": 17.3,
         "earnings_growth_yoy_pct": -2.8,
@@ -10148,7 +10353,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "ALKEM",
@@ -10175,7 +10380,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "RBLBANK",
@@ -10203,7 +10408,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "GODREJPROP",
@@ -10230,7 +10435,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 48.5
+        "sector_pe_avg": 48.4
       },
       {
         "symbol": "ATGL",
@@ -10255,7 +10460,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 27.1
+        "sector_pe_avg": 24.1
       },
       {
         "symbol": "BIOCON",
@@ -10282,7 +10487,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "LINDEINDIA",
@@ -10290,7 +10495,7 @@
         "name": "Linde India Ltd.",
         "sector": "Chemicals",
         "market_cap": 596861648896,
-        "pe_ratio": 120.7679,
+        "pe_ratio": 120.580635,
         "debt_to_equity": 23.384,
         "revenue_growth_yoy_pct": 12.3,
         "earnings_growth_yoy_pct": -30.5,
@@ -10334,7 +10539,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "APARINDS",
@@ -10359,7 +10564,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "NMDC",
@@ -10367,7 +10572,7 @@
         "name": "NMDC Ltd.",
         "sector": "Metals & Mining",
         "market_cap": 591161786368,
-        "pe_ratio": 7.8277063,
+        "pe_ratio": 7.9479904,
         "debt_to_equity": 19.795,
         "revenue_growth_yoy_pct": 4.1,
         "earnings_growth_yoy_pct": -1.6,
@@ -10392,7 +10597,7 @@
         "name": "Welspun Corp Ltd.",
         "sector": "Capital Goods",
         "market_cap": 588798164992,
-        "pe_ratio": 24.880768,
+        "pe_ratio": 24.493198,
         "debt_to_equity": 9.947,
         "revenue_growth_yoy_pct": 6.2,
         "earnings_growth_yoy_pct": 13.2,
@@ -10409,7 +10614,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "GICRE",
@@ -10437,7 +10642,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "JSL",
@@ -10498,7 +10703,7 @@
         "name": "Abbott India Ltd.",
         "sector": "Healthcare",
         "market_cap": 580105928704,
-        "pe_ratio": 35.099,
+        "pe_ratio": 35.95796,
         "debt_to_equity": 3.614,
         "revenue_growth_yoy_pct": 11.0,
         "earnings_growth_yoy_pct": 9.2,
@@ -10518,7 +10723,7 @@
           "50DMA",
           "100DMA"
         ],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "SCHAEFFLER",
@@ -10543,7 +10748,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "COROMANDEL",
@@ -10597,7 +10802,7 @@
         "buying_range_basis": [
           "50DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "GLAND",
@@ -10605,7 +10810,7 @@
         "name": "Gland Pharma Ltd.",
         "sector": "Healthcare",
         "market_cap": 556231163904,
-        "pe_ratio": 45.66861,
+        "pe_ratio": 44.973984,
         "debt_to_equity": 2.351,
         "revenue_growth_yoy_pct": 23.3,
         "earnings_growth_yoy_pct": 58.0,
@@ -10622,7 +10827,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "YESBANK",
@@ -10647,7 +10852,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "SONACOMS",
@@ -10672,7 +10877,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "ANTHEM",
@@ -10680,7 +10885,7 @@
         "name": "Anthem Biosciences Ltd.",
         "sector": "Healthcare",
         "market_cap": 549721636864,
-        "pe_ratio": 91.16823,
+        "pe_ratio": 90.15712,
         "debt_to_equity": 1.255,
         "revenue_growth_yoy_pct": 8.0,
         "earnings_growth_yoy_pct": 21.6,
@@ -10697,7 +10902,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 59.7
+        "sector_pe_avg": 59.8
       },
       {
         "symbol": "MRF",
@@ -10724,7 +10929,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 44.3
+        "sector_pe_avg": 45.7
       },
       {
         "symbol": "POLICYBZR",
@@ -10749,7 +10954,7 @@
         "trend": "Downtrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "NATIONALUM",
@@ -10876,7 +11081,7 @@
         "trend": "Mixed",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       },
       {
         "symbol": "CPPLUS",
@@ -10901,7 +11106,7 @@
         "trend": "Uptrend",
         "buying_range": false,
         "buying_range_basis": [],
-        "sector_pe_avg": 57.0
+        "sector_pe_avg": 54.7
       },
       {
         "symbol": "FACT",
@@ -10955,7 +11160,7 @@
         "buying_range_basis": [
           "100DMA"
         ],
-        "sector_pe_avg": 32.5
+        "sector_pe_avg": 32.6
       }
     ]
   },
@@ -10964,7 +11169,7 @@
     "us_in_scope": 232,
     "us_errors": 0,
     "india_candidates_scanned": 501,
-    "india_in_scope": 192,
+    "india_in_scope": 200,
     "india_errors": 0
   }
 }
